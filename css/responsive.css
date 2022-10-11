@@ -1,0 +1,5876 @@
+@media (min-width: 1550px) {
+    .container {
+        max-width: 1644px;
+    }
+
+    .guide-listing-sec .container {
+        max-width: 1770px;
+    }
+
+    .single-article-sec .container {
+        max-width: 1814px;
+    }
+}
+
+@media (max-width:1600px) {
+    .navbar-collapse {
+        justify-content: center;
+    }
+
+    header {
+        padding: 25px 0;
+    }
+
+    .navbar-nav {
+        padding-left: 0;
+    }
+
+    .navbar-nav .nav-item {
+        margin-right: 80px;
+    }
+
+    .navbar-brand img {
+        height: 26px;
+    }
+
+    .navbar-brand {
+        margin: 0 70px;
+    }
+
+    .navbar-nav .nav-item .nav-link {
+        font-size: 20px;
+    }
+
+    .banner-sec {
+        padding: 75px 0 60px;
+    }
+
+    .banner-sec .text-box h1 {
+        font-size: 32px;
+    }
+
+    .banner-sec .text-box h4 {
+        font-size: 32px;
+        margin: 30px 0;
+    }
+
+    .banner-sec .text-box h4 img {
+        margin-right: 15px;
+        height: 28px;
+    }
+
+    .banner-sec .text-box span {
+        display: block;
+        margin: 25px 0 0 0;
+    }
+
+    .banner-sec .text-box span img {
+        height: 160px;
+    }
+
+    .what-we-sec {
+        padding: 70px 0;
+    }
+
+    .carousel-indicators [data-bs-target] {
+        font-size: 24px;
+        padding: 0 0 10px 0;
+    }
+
+    .what-we-inner .carousel-indicators li {
+        padding: 0 60px;
+    }
+
+    .what-we-inner .text-box h4 {
+        font-size: 36px;
+        margin-bottom: 25px;
+    }
+
+    .what-we-inner .text-box p {
+        font-size: 20px;
+    }
+
+    .what-we-inner .text-box {
+        margin: 50px 0 0 0;
+    }
+
+    .grade-casino-sec {
+        padding: 80px 0;
+    }
+
+    .grade-casino-sec .text-box h2 {
+        font-size: 40px;
+        padding-bottom: 15px;
+    }
+
+    .grade-casino-sec .text-box h2::after {
+        max-width: 400px;
+    }
+
+    .grade-casino-sec .text-box ul li {
+        margin-bottom: 20px;
+    }
+
+    .grade-casino-sec .text-box ul {
+        margin: 25px 0 0 0;
+    }
+
+    .grade-casino-sec .text-box ul li p, .grade-casino-sec .text-box ul li span {
+        font-size: 18px;
+        line-height: 26px;
+    }
+
+    .title h2 {
+        font-size: 42px;
+        padding: 20px 0 0 0;
+    }
+
+    .title h2::after {
+        max-width: 185px;
+    }
+
+    .review-casino-sec {
+        padding: 0 0 50px 0;
+    }
+
+    .review-casino-inner .text-box p {
+        font-size: 18px;
+        margin: 0 0 30px 0;
+    }
+
+    .review-casino-inner {
+        margin: 30px 0 0 0;
+    }
+
+    .faq-inner {
+        max-width: 1020px;
+        margin: 30px auto 0;
+    }
+
+    .accordion-button {
+        font-size: 20px;
+        padding: 15px 0;
+    }
+
+    .accordion-body p {
+        font-size: 20px;
+    }
+
+    .community-inner .text-box {
+        padding: 0 0 0 80px;
+    }
+
+    .community-inner .text-box h3 {
+        font-size: 38px;
+    }
+
+    .community-inner .text-box p {
+        font-size: 24px;
+        margin: 15px 0;
+    }
+
+    .community-inner .text-box a {
+        font-size: 22px;
+        height: 50px;
+        max-width: 180px;
+    }
+
+    .call-action-sec {
+        padding: 50px 0;
+    }
+
+    .call-action-left form {
+        padding: 15px 0;
+    }
+
+    .call-action-left form .form-control {
+        font-size: 16px;
+        height: 55px;
+        padding-left: 20px;
+    }
+
+    .call-action-left form a {
+        height: 55px;
+        width: 160px;
+        font-size: 20px;
+        margin-left: 15px;
+    }
+
+    .follow-us h4 {
+        font-size: 20px;
+    }
+
+    .follow-us ul li img {
+        height: 55px;
+    }
+
+    footer {
+        padding: 50px 0px;
+    }
+
+    footer .menu__tittle {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+
+    footer .menu__tittle_list li a {
+        font-size: 16px;
+    }
+
+    footer .menu__select .form-select {
+        font-size: 18px;
+        margin-bottom: 30px;
+        margin-top: 15px;
+    }
+
+    .contact-us-sec {
+        padding: 70px 0 60px;
+    }
+
+    .contact-us-sec .text-box h4 {
+        font-size: 38px;
+    }
+
+    .contact-us-sec .text-box p {
+        font-size: 22px;
+        padding: 40px 0;
+        line-height: 30px;
+    }
+
+    .contact-us-sec .text-box a {
+        font-size: 28px;
+        height: 75px;
+        max-width: 240px;
+        width: 100%;
+    }
+
+    .contact-modal .modal-body {
+        padding: 30px 20px 20px 25px;
+    }
+
+    .contact-modal .modal-dialog {
+        max-width: 800px;
+    }
+
+    .contact-modal .modal-body h4 {
+        font-size: 38px;
+        margin: 0 0 30px 0;
+    }
+
+    .close-btn img {
+        height: 25px;
+    }
+
+    .label-text {
+        font-size: 26px;
+    }
+
+    .contact-form .form-control {
+        height: 50px;
+        font-size: 22px;
+        padding-left: 15px;
+    }
+
+    .contact-form .form-group {
+        margin-bottom: 20px;
+    }
+
+    .contact-form textarea.form-control {
+        height: 100px;
+    }
+
+    .btn-default {
+        height: 60px;
+        max-width: 170px;
+        font-size: 24px;
+        border-radius: 15px;
+    }
+
+    .breadcrumb .breadcrumb-item,
+    .breadcrumb .breadcrumb-item a {
+        font-size: 20px;
+    }
+
+    .privacy-policy-sec {
+        padding: 60px 0 40px;
+    }
+
+    .privacy-policy-inner {
+        margin: 30px 0 0 0;
+    }
+
+    .privacy-policy-inner h3 {
+        font-size: 40px;
+        margin: 0px 0 30px 0;
+    }
+
+    .privacy-policy-inner .text-box {
+        margin: 0 0 40px 0;
+    }
+
+    .privacy-policy-inner .text-box p {
+        font-size: 22px;
+        line-height: 32px;
+    }
+
+    .privacy-policy-inner .text-box h4 {
+        font-size: 22px;
+    }
+
+    .help-box {
+        margin: 30px 0 0 0;
+    }
+
+    .help-box h4 {
+        font-size: 36px;
+        margin: 0 0 30px 0;
+    }
+
+    .help-box p {
+        font-size: 22px;
+        line-height: 32px;
+    }
+
+    .monthly-sponsored-sec {
+        padding: 50px 0;
+    }
+
+    .monthly-sponsored-box h3 {
+        font-size: 36px;
+        margin: 0 0 15px 0;
+    }
+
+    .monthly-sponsored-box p {
+        font-size: 20px;
+        line-height: 28px;
+    }
+
+    .monthly-sponsored-box {
+        padding: 40px;
+        border-radius: 30px;
+        margin-bottom: 30px;
+    }
+
+    .enquiry-now-btn {
+        font-size: 20px;
+        border-radius: 10px;
+        height: 60px;
+        max-width: 190px;
+        margin-left: 35px;
+    }
+
+    .monthly-sponsored-add {
+        padding: 45px 40px 111px;
+        max-width: 1160px;
+        margin: 30px auto 0;
+    }
+
+    .sponsore-award-sec {
+        padding: 70px 40px;
+    }
+
+    .sponsore-award-inner .image-holder {
+        max-width: 310px;
+    }
+
+    .sponsore-award-inner .text-box {
+        padding-left: 40px;
+    }
+
+    .sponsore-award-inner .text-box h4 {
+        font-size: 32px;
+    }
+
+    .sponsore-award-inner .text-box p {
+        font-size: 22px;
+        margin: 15px 0;
+        line-height: 32px;
+    }
+
+    .ask-btn {
+        border-radius: 10px;
+        height: 60px;
+        max-width: 200px;
+        font-size: 24px;
+    }
+
+    .sponsore-award-inner {
+        padding: 0 60px;
+    }
+
+    .profile-group {
+        max-width: 200px;
+        height: 200px;
+    }
+
+    .profile-group img {
+        height: 100px;
+    }
+
+    .profile-edit {
+        bottom: -15px;
+    }
+
+    .profile-edit img {
+        height: 60px;
+    }
+
+    .profile-tabs {
+        max-width: 1180px;
+        margin: 90px auto 0px;
+    }
+
+    .profile-tabs .nav-pills .nav-item .nav-link {
+        width: 280px;
+        padding: 20px 15px 40px;
+        font-size: 24px;
+    }
+
+    .profile-detail {
+        padding: 50px 40px;
+        margin: -30px 0 0 0;
+    }
+
+    .profile-diamond h3,
+    .buy-diamond h3,
+    .history-diamond h3 {
+        font-size: 38px;
+    }
+
+    .profile-diamond-inner {
+        margin: 40px 0 0 0;
+    }
+
+    .profile-diamond-inner .form-group label {
+        font-size: 26px;
+    }
+
+    .profile-diamond-inner .form-group .form-control {
+        height: 60px;
+        font-size: 22px;
+        border-radius: 10px;
+        padding-left: 30px;
+    }
+
+    .edit-field img {
+        height: 38px;
+    }
+
+    .edit-field {
+        right: -20px;
+        bottom: -15px;
+    }
+
+    .verified-error img {
+        margin-right: 10px;
+        height: 26px;
+    }
+
+    .verified-error {
+        font-size: 20px;
+        margin: 10px 0 0 10px;
+    }
+
+    .dimoand-held img {
+        height: 34px;
+    }
+
+    .dimoand-held {
+        font-size: 24px;
+        padding: 0 15px;
+        height: 60px;
+        max-width: 170px;
+        width: 100%;
+    }
+
+    .width-group {
+        max-width: 652px;
+    }
+
+    .profile-navigation h4 {
+        font-size: 34px;
+    }
+
+    .profile-navigation ul {
+        padding: 15px 0px 0 0px;
+    }
+
+    .navigation-box a p {
+        font-size: 28px;
+    }
+
+    .navigation-box a span {
+        min-height: 80px;
+        margin-bottom: 15px;
+    }
+
+    .navigation-box a span img {
+        height: 80px;
+    }
+
+    .navigation-box a {
+        height: 290px;
+        width: 292px;
+        border-radius: 45px;
+        padding: 0 20px;
+    }
+
+    .buy-diamond-box .text-box h4 {
+        font-size: 26px;
+        margin: 0 0 40px 0;
+    }
+
+    .buy-diamond-box .text-box {
+        padding: 30px;
+    }
+
+    .price {
+        padding: 18px 15px;
+        background-size: cover;
+        background-position: center center;
+    }
+
+    .price h5 {
+        font-size: 34px;
+    }
+
+    .buy-diamond-box {
+        margin: 15px 0;
+    }
+
+    .history-diamond-inner table thead tr th {
+        font-size: 24px;
+    }
+
+    .history-diamond-inner table tbody tr td {
+        font-size: 24px;
+        padding: 20px 0;
+    }
+
+    .history-diamond-inner table tbody tr:first-child td {
+        padding: 30px 0 20px 0;
+    }
+
+    .more-history {
+        margin: 20px 0 0 0;
+    }
+
+    .more-history a img {
+        height: 35px;
+    }
+
+    .guide-sport {
+        padding: 20px 40px;
+    }
+
+    .guide-sport-text .media {
+        margin: 0 0 15px 0;
+    }
+
+    .guide-sport-text .media h3 {
+        font-size: 36px;
+    }
+
+    .guide-sport-text p {
+        font-size: 20px;
+        line-height: 28px;
+    }
+
+    .guide-sport-text .media a {
+        font-size: 22px;
+    }
+
+    .guide-swiper-btn .swiper-button-next img, .guide-swiper-btn .swiper-button-prev img {
+        height: 25px;
+    }
+
+    .guide-swiper-btn .swiper-button-next, .guide-swiper-btn .swiper-button-prev {
+        width: 62px;
+        height: 53px;
+        border-radius: 10px;
+        margin-left: 15px;
+        border: 3px solid #bb9b6a;
+    }
+
+    .guide-swiper-btn {
+        margin: 20px 0;
+    }
+
+    .guide-sport-box .text-box .text-box-inner {
+        padding: 10px 15px;
+    }
+
+    .guide-sport-box .text-box .text-box-inner h3 {
+        font-size: 22px;
+        margin: 8px 0;
+    }
+
+    .guide-sport-box .text-box .text-box-inner p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .all-article-sec .more-history a {
+        font-size: 24px;
+    }
+
+    .review-list .navigation-box a {
+        border-radius: 55px;
+        height: 345px;
+        width: 350px;
+        padding: 0 26px;
+    }
+
+    .review-list .navigation-box a p {
+        font-size: 32px;
+    }
+
+    .review-list .navigation-box a span img {
+        height: 110px;
+    }
+
+    .review-list .navigation-box a span {
+        min-height: 100px;
+        margin-bottom: 25px;
+    }
+
+    .review-ranking {
+        margin: 150px 0 0 0;
+    }
+
+    .review-ranking-title h4 {
+        font-size: 32px;
+    }
+
+    .review-ranking-title {
+        border-radius: 20px;
+        max-width: 440px;
+        width: 100%;
+        height: 70px;
+    }
+
+    .review-crown {
+        top: -89px;
+        left: -42px;
+    }
+
+    .review-crown img {
+        height: 105px;
+    }
+
+    .review-ranking-box {
+        padding: 40px;
+    }
+
+    .review-ranking-box .image-holder {
+        max-width: 210px;
+    }
+
+    .review-ranking-box .text-box {
+        margin-left: 20px;
+        padding-left: 40px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .review-ranking-box .text-box .text-inner h4 {
+        font-size: 36px;
+    }
+
+    .review-ranking-box .text-box .text-inner p {
+        font-size: 30px;
+    }
+
+    .review-ranking-box .text-box .text-inner p img {
+        height: 30px;
+    }
+
+    .view-btn {
+        font-size: 32px;
+        border-radius: 15px;
+        height: 80px;
+        max-width: 260px;
+        width: 100%;
+    }
+
+    .review-ranking-inner {
+        padding: 40px;
+    }
+
+    .product-review-inner h3 {
+        font-size: 38px;
+        margin: 0 0 15px 0;
+    }
+
+    .product-review-box {
+        padding: 30px;
+    }
+
+    .product-review-box .text-box ul li img {
+        height: 30px;
+    }
+
+    .product-review-box .text-box ul {
+        max-width: 220px;
+    }
+
+    .product-review-box .text-box h4 {
+        font-size: 26px;
+        margin: 20px 0 20px 0;
+    }
+
+    .product-review-box .text-box h4 span {
+        margin: 0 5px;
+    }
+
+    .product-review-box .text-box a {
+        font-size: 22px;
+        max-width: 210px;
+        height: 65px;
+    }
+
+    .review-blaclist-tab {
+        max-width: 1120px;
+        padding-bottom: 30px;
+    }
+
+    .review-blaclist-tab .nav-pills .nav-item .nav-link {
+        font-size: 20px;
+        height: 115px;
+    }
+
+    .review-blaclist-tab .nav-pills .nav-item .nav-link span {
+        min-height: 44px;
+        margin: 0 0 10px 0;
+    }
+
+    .review-blaclist-tab .nav-pills .nav-item .nav-link span img {
+        height: 44px;
+    }
+
+    .review-blaclist-detail .text-box {
+        padding: 40px 20px;
+    }
+
+    .text-box-top .text-inner h4 {
+        font-size: 36px;
+    }
+
+    .text-box-top .text-inner span {
+        font-size: 26px;
+        margin: 10px 0;
+    }
+
+    .text-box-top .text-inner p {
+        font-size: 26px;
+    }
+
+    .more-btn {
+        font-size: 22px;
+        border-radius: 10px;
+        max-width: 200px;
+        width: 100%;
+        height: 64px;
+    }
+
+    .text-box-bottom p {
+        font-size: 22px;
+    }
+
+    .text-box-top {
+        padding: 0 0 30px 0;
+    }
+
+    .time-tag {
+        font-size: 18px;
+        height: 40px;
+        max-width: 160px;
+        top: 20px;
+    }
+
+    .submit-btn {
+        margin: 20px 0 0 0;
+    }
+
+    .submit-btn a {
+        font-size: 22px;
+        border-radius: 10px;
+        max-width: 260px;
+        width: 100%;
+        height: 64px;
+    }
+
+    .file-upload label {
+        font-size: 26px;
+        padding: 10px 15px;
+    }
+
+    .file-upload label span img {
+        margin-right: 15px;
+        height: 34px;
+    }
+
+    .file-upload label span {
+        font-size: 24px;
+        height: 70px;
+        max-width: 240px;
+    }
+
+    .grade-ranking-sec .review-ranking-title {
+        max-width: 320px;
+    }
+
+    .vote-ranking-sponsor {
+        margin: -120px 0 -300px 0;
+    }
+
+    .vote-directly ol li {
+        font-size: 22px;
+        height: 50px;
+        width: 60px;
+        margin-right: 10px;
+    }
+
+    .vote-directly-box {
+        margin-bottom: 100px;
+    }
+
+    .single-review-box {
+        padding: 30px;
+    }
+
+    .single-review-box .image-holder {
+        max-width: 245px;
+    }
+
+    .single-review-box .text-box {
+        padding-left: 30px;
+    }
+
+    .single-review-box .text-box .media p {
+        font-size: 26px;
+        padding-left: 30px;
+        padding-right: 20px;
+    }
+
+    .single-review-box .text-box .media span {
+        font-size: 16px;
+    }
+
+    .ratting {
+        max-width: 173px;
+        height: 45px;
+        margin: 10px 0px;
+    }
+
+    .ratting li img {
+        height: 22px;
+    }
+
+    .single-review-box .text-box h5 {
+        font-size: 24px;
+    }
+
+    .single-review-box .text-box h5 img {
+        margin-right: 15px;
+        height: 26px;
+    }
+
+    .visit-btn {
+        font-size: 18px;
+        border-radius: 10px;
+        height: 50px;
+        max-width: 165px;
+        width: 100%;
+    }
+
+    .single-pros-inner .nav-pills .nav-item .nav-link {
+        font-size: 18px;
+    }
+
+    .single-pros-inner .tab-content {
+        padding: 30px 30px;
+    }
+
+    .basic-detail ul li {
+        font-size: 20px;
+        margin: 0 0 40px 0;
+    }
+
+    .cons-box h4 {
+        font-size: 22px;
+        margin-bottom: 30px;
+    }
+
+    .cons-box ul li {
+        font-size: 14px;
+        margin-bottom: 30px;
+    }
+
+    .cons-box ul li img {
+        height: 20px;
+        margin-right: 13px;
+    }
+
+    .single-payment-tab {
+        padding-left: 70px;
+    }
+
+    .single-payment-tab .nav-pills .nav-item .nav-link {
+        padding: 25px 0;
+        font-size: 24px;
+    }
+
+    .payment-review-box {
+        padding: 50px 0 0 0;
+    }
+
+    .payment-review-box .media .ratting li img {
+        height: 26px;
+    }
+
+    .payment-review-box .media span {
+        margin: -2px 0 0 0;
+    }
+
+    .payment-review-box .media span img {
+        height: 60px;
+    }
+
+    .payment-review-box .media .ratting {
+        height: 60px;
+    }
+
+    .payment-review-box .text-box h4 {
+        font-size: 38px;
+        padding-bottom: 20px;
+        margin-bottom: 25px;
+        margin-top: 22px;
+    }
+
+    .payment-review-box .text-box p {
+        font-size: 24px;
+        line-height: 34px;
+        margin-bottom: 20px;
+    }
+
+    .loading-speed {
+        padding: 50px 45px 35px;
+        margin: 30px 0;
+    }
+
+    .loading-speed span img {
+        height: 150px;
+    }
+
+    .loading-speed ul li a {
+        font-size: 20px;
+        padding: 20px 25px;
+    }
+
+    .loading-speed .text-inner h4 {
+        font-size: 34px;
+    }
+
+    .loading-speed .text-inner p {
+        font-size: 24px;
+        line-height: 34px;
+        margin: 25px 0
+    }
+
+    .loading-speed .text-inner a {
+        font-size: 30px;
+    }
+
+    .loading-speed .text-inner a img {
+        margin-right: 15px;
+        height: 50px;
+    }
+
+    .swiper-pagination-bullet {
+        width: 18px;
+        height: 18px;
+        margin: 0 18.5px !important;
+    }
+
+    .swiper-counter {
+        font-size: 40px;
+    }
+
+    .loading-speed ul {
+        margin: 40px auto;
+        max-width: 1000px;
+    }
+
+    .recommended-box {
+        height: 300px;
+        padding: 0 30px;
+    }
+
+    .recommended-box p img {
+        height: 24px;
+    }
+
+    .recommended-box p {
+        font-size: 22px;
+    }
+
+    .recommended-box ul {
+        margin: 20px 0;
+    }
+
+    .swiper-horizontal>.swiper-scrollbar {
+        height: 15px;
+        margin: 50px 0 0 0;
+    }
+
+    .product-review-box .text-box {
+        padding: 20px 0 0 0;
+        margin-top: 20px;
+    }
+
+    .single-payment-tab .nav-pills {
+        width: 1580px;
+
+    }
+
+    .submenu {
+        padding: 30px 0px 10px;
+    }
+
+    .search-dropdown {
+        top: 82px;
+    }
+
+    .article-text h3 {
+        font-size: 32px;
+        margin: 0 0 15px 0;
+    }
+
+    .article-text ul li {
+        font-size: 16px;
+    }
+
+    .single-article-box .text-box p {
+        font-size: 22px;
+        line-height: 1.2;
+        margin: 0 0 20px 0;
+    }
+
+    .single-article-box .text-box h4 {
+        font-size: 30px;
+        padding-bottom: 10px;
+        margin-bottom: 20px;
+    }
+
+    .single-article-box {
+        margin-bottom: 30px;
+    }
+
+    .sponsord-tag li a {
+        font-size: 24px;
+        height: 45px;
+        padding: 0 15px;
+    }
+
+    .sponsord-add .media h4 {
+        font-size: 22px;
+    }
+
+    .sponsord-add .media span img {
+        height: 50px;
+    }
+
+    .sponsord-add {
+        padding: 8px 25px 25px 25px;
+    }
+
+    .question-box h4 {
+        font-size: 28px;
+    }
+
+    .question-box p {
+        font-size: 28px;
+        margin: 10px 0;
+    }
+
+    .question-box ul li a {
+        font-size: 24px;
+        border-radius: 10px;
+        height: 60px;
+        padding: 0 60px;
+    }
+
+    .question-box ul li {
+        padding: 0 15px;
+    }
+
+    .latest-news {
+        padding: 25px 20px 15px 20px;
+    }
+
+    .latest-news h3 {
+        font-size: 20px;
+        margin: 0 0 15px 0;
+    }
+
+    .latest-news-box .text-box {
+        padding-left: 15px;
+        padding-bottom: 15px;
+        padding-right: 15px;
+    }
+
+    .latest-news-box .text-box h4 {
+        font-size: 18px;
+    }
+
+    .news-recommendations-box .image-holder {
+        max-width: 100px;
+    }
+
+    .news-recommendations-box .text-box {
+        padding-left: 15px;
+    }
+
+    .news-recommendations-box .text-box h4 {
+        font-size: 20px;
+    }
+
+    .news-recommendations-box .text-box p {
+        font-size: 20px;
+    }
+}
+
+@media (max-width:1400px) {
+    .guide-sport-list ul li a {
+        font-size: 16px;
+    }
+
+}
+
+@media (max-width:1300px) {
+    .header-right ul li {
+        margin-left: 20px;
+    }
+
+    .header-right {
+        margin: 0;
+    }
+
+    .sponsore-award-inner .image-holder {
+        max-width: 260px;
+    }
+
+    .sponsore-award-inner .text-box h4 {
+        font-size: 28px;
+    }
+
+    .sponsore-award-inner .text-box p {
+        font-size: 18px;
+        margin: 10px 0;
+        line-height: 26px;
+    }
+
+    .profile-sec {
+        padding: 95px 0 0 0;
+    }
+
+    .recommended-box {
+        height: 270px;
+        padding: 0 20px;
+    }
+
+    .recommended-box p img {
+        height: 20px;
+    }
+
+    .recommended-box p {
+        font-size: 18px;
+    }
+}
+
+@media (max-width:1199px) {
+    .container, .container-lg, .container-md, .container-sm {
+        max-width: 100%;
+    }
+
+    header {
+        border-bottom: 5px solid #bb9b6a;
+        padding: 70px 25px;
+    }
+
+    .header-right {
+        margin: 0 !important;
+        order: 3;
+    }
+
+    .navbar-toggler {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 0;
+        order: 1;
+        border: none;
+        border-radius: 0;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .navbar-collapse {
+        position: absolute;
+        top: 124px;
+        left: 0;
+        background-color: #fff;
+        width: 100%;
+        padding: 15px 0;
+    }
+
+    .navbar-nav .nav-item {
+        margin: 0;
+    }
+
+    .navbar-nav .nav-item .nav-link {
+        font-size: 35px;
+        line-height: 1;
+        padding: 15px 30px;
+    }
+
+    .navbar-brand {
+        padding: 0;
+        margin: 0;
+        order: 2;
+    }
+
+    .navbar-brand img {
+        height: 48px;
+    }
+
+    .header-right ul li a.search-icon img {
+        height: 40px;
+    }
+
+    .header-right ul li {
+        margin-left: 0;
+    }
+
+    .banner-sec {
+        background: url(../images/banner-bg-mobile.png) no-repeat;
+        background-size: cover;
+        background-position: center center;
+        padding: 105px 0 45px;
+    }
+
+    .banner-sec .text-box {
+        padding: 0 0 0 50px;
+    }
+
+    .banner-sec .text-box h1 {
+        font-size: 41.65px;
+    }
+
+    .banner-sec .text-box h4 {
+        font-size: 41.65px;
+        margin: 90px 0 80px;
+    }
+
+    .banner-sec .text-box h4 img {
+        margin-right: 15px;
+        height: 54px;
+    }
+
+    .banner-sec .text-box span img {
+        height: 200px;
+    }
+
+    .banner-sec .text-box span {
+        margin: 40px 0 0 0;
+    }
+
+    .what-we-sec {
+        padding: 105px 18px;
+    }
+
+    .carousel-indicators [data-bs-target] {
+        font-size: 45px;
+        border-bottom: 4px solid transparent;
+        padding: 0 0 17px 0;
+    }
+
+    .what-we-inner .carousel-indicators li {
+        padding: 0 42px;
+    }
+
+    .what-we-inner .text-box h4 {
+        font-size: 55px;
+    }
+
+    .what-we-inner .text-box p {
+        font-size: 35px;
+        line-height: 1.2;
+    }
+
+    .what-we-inner .text-box {
+        margin: 70px 0 0 0;
+    }
+
+    .grade-casino-sec {
+        padding: 30px 15px 112px;
+    }
+
+    .grade-casino-sec .image-holder {
+        text-align: center;
+        max-width: 873px;
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .grade-casino-sec .image-holder img {
+        width: 100%;
+    }
+
+    .grade-casino-sec .text-box {
+        margin: 100px 0 0 0;
+    }
+
+    .grade-casino-sec .text-box ul {
+        margin: 55px 0 0 0;
+    }
+
+    .grade-casino-sec .text-box h2 {
+        font-size: 65px;
+        padding-bottom: 38px;
+        text-align: center;
+    }
+
+    .grade-casino-sec .text-box h2::after {
+        height: 8px;
+        max-width: 688px;
+        left: 50%;
+        transform: translate(-50%, 0);
+    }
+
+    .grade-casino-sec .text-box ul li p, .grade-casino-sec .text-box ul li span {
+        font-size: 35px;
+        line-height: 1.2;
+    }
+
+
+    .grade-casino-sec .text-box ul li {
+        margin-bottom: 35px;
+    }
+
+    .title h2 {
+        font-size: 65px;
+        padding: 0px 0 50px 0;
+    }
+
+    .title h2 br {
+        display: none;
+    }
+
+    .title h2::after {
+        max-width: 690px;
+        height: 8px;
+        top: inherit;
+        bottom: 0;
+    }
+
+    .review-casino-inner {
+        margin: 50px 0 0 0;
+    }
+
+    .review-casino-inner .text-box p {
+        font-size: 35px;
+        margin: 0 0 60px 0;
+        line-height: 1.2;
+    }
+
+    .faq-sec {
+        padding: 50px 15px 70px 15px;
+    }
+
+    .faq-inner {
+        max-width: 100%;
+        margin: 40px auto 0;
+    }
+
+    .accordion-button {
+        font-size: 35px;
+        padding: 15px 0;
+    }
+
+    .accordion-body {
+        padding: 20px 0 5px;
+    }
+
+    .accordion-body p {
+        font-size: 35px;
+    }
+
+    .community-sec {
+        padding: 44px 15px 125px;
+    }
+
+    .community-inner {
+        flex-direction: column;
+        border: 7px solid #bb9b6a;
+        padding: 75px 0 50px;
+    }
+
+    .community-inner .image-holder {
+        margin: 0;
+    }
+
+    .community-inner .text-box {
+        text-align: center;
+        padding: 0;
+    }
+
+    .community-inner .text-box h3 {
+        font-size: 65px;
+    }
+
+    .community-inner .text-box p {
+        font-size: 35px;
+        margin: 25px 0 0;
+    }
+
+    .community-inner .text-box a {
+        font-size: 74px;
+        height: 124px;
+        max-width: 733px;
+        margin: 0 auto;
+        border-radius: 10px;
+    }
+
+    .community-inner .image-holder {
+        max-width: 100%;
+        display: flex;
+        align-content: center;
+        margin: 60px 0 65px;
+        justify-content: center;
+    }
+
+    .privacy-policy-sec {
+        padding: 100px 15px;
+    }
+
+    .breadcrumb .breadcrumb-item, .breadcrumb .breadcrumb-item a {
+        font-size: 45px;
+    }
+
+    .breadcrumb-item+.breadcrumb-item::before {
+        font-size: 45px;
+    }
+
+    .privacy-policy-inner h3 {
+        font-size: 55px;
+        margin: 0px 0 50px 0;
+    }
+
+    .privacy-policy-inner .text-box p {
+        font-size: 35px;
+        line-height: 1.2;
+    }
+
+    .privacy-policy-inner .text-box h4 {
+        font-size: 35px;
+    }
+
+    .help-box h4 {
+        font-size: 55px;
+        margin: 0 0 50px 0;
+    }
+
+    .help-box p {
+        font-size: 30px;
+        line-height: 1.2;
+    }
+
+    .monthly-sponsored-box {
+        padding: 68px 47px 45px;
+        border-radius: 44px;
+        margin-bottom: 40px;
+    }
+
+    .monthly-sponsored-sec {
+        padding: 50px 15px;
+    }
+
+    .monthly-sponsored-box h3 {
+        font-size: 52.29px;
+        margin: 0 0 21px 0;
+    }
+
+    .monthly-sponsored-box p {
+        font-size: 30px;
+        line-height: 1.2;
+    }
+
+    .guide-sport-text .media {
+        margin: 0 0 20px 0;
+    }
+
+    .guide-sport-text .media h3 {
+        font-size: 52.29px;
+    }
+
+    .guide-sport-text .media a {
+        font-size: 30px;
+    }
+
+    .guide-sport-text p {
+        font-size: 30px;
+        line-height: 1.2;
+    }
+
+    .guide-sport {
+        padding: 35px 48px;
+    }
+
+    .guide-swiper-btn .swiper-button-next, .guide-swiper-btn .swiper-button-prev {
+        width: 82px;
+        height: 75px;
+        border-radius: 20px;
+        margin-left: 22px;
+        border: 3px solid #bb9b6a;
+    }
+
+    .guide-sport-box .text-box .text-box-inner h3 {
+        font-size: 30px;
+        margin: 8px 0;
+    }
+
+    .guide-sport-box .text-box .text-box-inner p {
+        font-size: 20px;
+        line-height: 24px;
+        line-height: 1.2;
+    }
+
+    .guide-sport-list ul li a {
+        font-size: 18.53px;
+    }
+
+    .guide-sport-box .text-box .text-box-inner {
+        padding: 13px 20px;
+    }
+
+    .guide-sport-inner {
+        margin: 0 -85px 0 -5px;
+    }
+
+    .guide-swiper-btn {
+        padding: 0 85px 0 0px;
+        margin: 0px 0 30px;
+    }
+
+    .all-article-sec {
+        padding: 35px 5px;
+    }
+
+    .all-article-sec .guide-sport-text {
+        padding: 0 0 0 45px;
+    }
+
+    .all-article-inner {
+        margin: 23px 0 0 0;
+    }
+
+    .all-article-inner .guide-sport-box {
+        display: flex;
+        background-color: #fff;
+    }
+
+    .all-article-inner .guide-sport-box .image-holder {
+        max-width: 425px;
+        width: 100%;
+    }
+
+    .all-article-inner .guide-sport-box .image-holder img {
+        width: 100%;
+        border-radius: 45px 0px 0 45px;
+    }
+
+    .all-article-inner .guide-sport-box .text-box {
+        flex: 1;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding: 0 53px;
+    }
+
+    .all-article-inner .guide-sport-box .text-box .text-box-inner {
+        padding: 0;
+    }
+
+    .all-article-inner .guide-sport-box .text-box .text-box-inner ul li {
+        font-size: 20px;
+    }
+
+    .all-article-inner .guide-sport-box .text-box .text-box-inner h3 {
+        font-size: 38px;
+    }
+
+    .all-article-inner .guide-sport-box .text-box .text-box-inner p {
+        font-size: 25px;
+    }
+
+    .all-article-inner .guide-sport-list {
+        border: none;
+        padding: 0;
+        margin: 27px 0 0 0;
+    }
+
+    .all-article-inner .guide-sport-list ul li a {
+        font-size: 27px;
+        height: 47px;
+        border-radius: 8px;
+        color: #7f7f7f;
+        padding: 0 8px;
+    }
+
+    .more-history a img {
+        height: 58px;
+    }
+
+    .more-history a {
+        font-size: 30px;
+    }
+
+    .more-history {
+        margin: 20px 0 130px 0;
+    }
+
+    .guide-listing-sec {
+        overflow: hidden;
+    }
+
+    .contact-us-sec {
+        padding: 105px 15px 200px;
+    }
+
+    .contact-us-sec .text-box h4 {
+        font-size: 55px;
+    }
+
+    .contact-us-sec .text-box p {
+        font-size: 35px;
+        padding: 55px 0;
+        line-height: 1.5;
+    }
+
+    .contact-us-sec .text-box a {
+        font-size: 74px;
+        height: 124px;
+        max-width: 733px;
+        border-radius: 10px;
+    }
+
+    .contact-modal .modal-dialog {
+        max-width: 970px;
+    }
+
+    .contact-modal .modal-body h4 {
+        font-size: 55px;
+        margin: 0 0 40px 0;
+    }
+
+    .label-text {
+        font-size: 32px;
+    }
+
+    .contact-form .form-control {
+        height: 61px;
+        font-size: 30px;
+        padding-left: 20px;
+    }
+
+    .contact-form textarea.form-control {
+        height: 325px;
+    }
+
+    .btn-default {
+        height: 103px;
+        max-width: 300px;
+        font-size: 45.11px;
+        border-radius: 18px
+    }
+
+    .contact-form .form-group {
+        margin-bottom: 50px;
+    }
+
+    .contact-modal .modal-body {
+        padding: 50px 34px 35px 45px;
+    }
+
+    .enquiry-now-btn {
+        margin: 0 auto;
+        font-size: 45.11px;
+        height: 116px;
+        border-radius: 20px;
+        max-width: 377px;
+    }
+
+    .monthly-sponsored-add {
+        background: none;
+        padding: 0;
+        margin: 15px auto 0;
+    }
+
+    .sponsore-award-sec {
+        padding: 87px 55px;
+        margin: 0 0 90px 0;
+    }
+
+    .sponsore-award-inner {
+        padding: 0 24px 33px;
+        flex-direction: column;
+    }
+
+    .sponsore-award-inner .text-box h4 {
+        font-size: 50px;
+    }
+
+    .sponsore-award-inner .text-box p {
+        font-size: 30px;
+        margin: 16px 0 18px;
+        line-height: 1.5;
+    }
+
+    .sponsore-award-inner .text-box p br {
+        display: none;
+    }
+
+    .ask-btn {
+        margin: 0 auto;
+        height: 109px;
+        font-size: 51.64px;
+        max-width: 395px;
+        width: 100%;
+        border-radius: 20px;
+    }
+
+    .sponsore-award-inner .text-box {
+        padding: 30px 0 0 0;
+    }
+
+    .sponsore-award-inner .image-holder {
+        margin: -65px 0 0;
+        max-width: 521px;
+    }
+
+    .sponsore-award-inner .image-holder img {
+        width: 100%;
+    }
+
+    .profile-bg {
+        height: 258px;
+    }
+
+    .profile-bg img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .profile-group {
+        max-width: 288px;
+        height: 288px;
+    }
+
+    .profile-group img {
+        height: 143px;
+    }
+
+    .profile-edit img {
+        height: 102px;
+    }
+
+    .profile-edit {
+        bottom: -35px;
+    }
+
+    .profile-sec {
+        padding: 20px 15px 0 15px;
+    }
+
+    .nav-pills {
+        padding: 0 25px;
+        margin: 0 -6px;
+    }
+
+    .profile-tabs .nav-pills .nav-item {
+        width: 33.3%;
+        margin: 0;
+        padding: 0 6px;
+    }
+
+    .profile-tabs .nav-pills .nav-item .nav-link {
+        width: 100%;
+        padding: 30px 15px 55px;
+        border-radius: 20px;
+        font-size: 30px;
+    }
+
+    .profile-diamond h3, .buy-diamond h3, .history-diamond h3 {
+        font-size: 50px;
+    }
+
+    .profile-diamond-inner .form-group label {
+        font-size: 38px;
+    }
+
+    .profile-diamond-inner .form-group .form-control {
+        height: 77px;
+        font-size: 30px;
+        border-radius: 10px;
+        padding-left: 63px;
+    }
+
+    .profile-detail {
+        padding: 90px 47px;
+    }
+
+    .profile-diamond-inner {
+        margin: 80px 0 0 0;
+    }
+
+    .edit-field img {
+        height: 53px;
+    }
+
+    .verified-error {
+        font-size: 25px;
+        margin: 0;
+    }
+
+    .verify {
+        font-size: 25px;
+        position: static;
+    }
+
+    .verified-error img {
+        margin-right: 7px;
+        height: 21px;
+    }
+
+    .dimoand-held {
+        font-size: 39px;
+        padding: 0 30px;
+        height: 75px;
+        max-width: 215px;
+        width: 100%;
+    }
+
+    .dimoand-held img {
+        height: 56px;
+    }
+
+    .profile-diamond-inner .form-group label {
+        text-align: left !important;
+    }
+
+
+    .width-group {
+        max-width: 100%;
+    }
+
+    .width-group .media {
+        display: flex;
+        align-items: center;
+        margin: 6px 0 0 0;
+    }
+
+    .profile-navigation h4 {
+        font-size: 50px;
+    }
+
+    .navigation-box a p {
+        font-size: 40px;
+    }
+
+    .navigation-box a span {
+        min-height: 133px;
+        margin-bottom: 25px;
+    }
+
+    .navigation-box a span img {
+        height: 110px;
+    }
+
+    .logout-bnt {
+        display: flex;
+        margin: 142px 0 90px auto;
+    }
+
+    .buy-diamond-box .text-box {
+        padding: 18px 40px 60px 40px;
+    }
+
+    .buy-diamond-box .text-box h4 {
+        font-size: 37px;
+        margin: 0 0 80px 0;
+    }
+
+    .price h5 {
+        font-size: 53px;
+    }
+
+    .price {
+        padding: 20px 15px;
+    }
+
+    .buy-diamond-box {
+        margin: 17px 0;
+    }
+
+    .buy-diamond h3 {
+        margin: 0 0 50px 0;
+    }
+
+    .history-diamond-inner table thead tr th {
+        font-size: 30px;
+    }
+
+    .history-diamond-inner table tbody tr td {
+        font-size: 25px;
+        padding: 39px 0;
+    }
+
+    .history-diamond-inner table tbody tr:first-child td {
+        padding: 70px 0 39px 0;
+    }
+
+    .review-list .navigation-box a {
+        border-radius: 40px;
+        height: 280px;
+        padding: 0;
+        width: 280px;
+    }
+
+    .review-inner {
+        margin: 90px 0 0 0px;
+    }
+
+    .review-ranking-title h4 {
+        font-size: 52px;
+    }
+
+    .review-ranking-title {
+        border-radius: 30px;
+        max-width: 634px;
+        width: 100%;
+        height: 91px;
+    }
+
+    .review-crown img {
+        height: 80px;
+    }
+
+    .review-crown {
+        top: -71px;
+        left: -29px;
+    }
+
+    .review-ranking-box {
+        padding: 40px 50px;
+    }
+
+    .review-ranking {
+        margin: 106px 0 0 0;
+    }
+
+    .ranking-crown img {
+        height: 70px;
+    }
+
+    .review-ranking-box .text-box .text-inner h4 {
+        font-size: 52px;
+    }
+
+    .review-ranking-box .text-box .text-inner p {
+        font-size: 45px;
+        margin: 0 0 20px 0;
+    }
+
+    .review-ranking-box .text-box {
+        margin-left: 35px;
+        padding-left: 84px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .view-btn {
+        font-size: 33px;
+        border-radius: 15px;
+        height: 84px;
+        width: 278px;
+    }
+
+    .review-ranking-inner {
+        padding: 70px 40px;
+    }
+
+    .product-review-inner h3 {
+        font-size: 52px;
+        margin: 0 0 55px 0;
+    }
+
+    .product-review-sec {
+        padding: 70px 15px 140px;
+    }
+
+    .product-review-box .text-box h4 {
+        font-size: 45px;
+        margin: 20px 0 20px 0;
+    }
+
+    .product-review-box .text-box h4 img {
+        height: 43px;
+    }
+
+    .product-review-box .text-box a {
+        font-size: 30px;
+        max-width: 254px;
+        height: 77px;
+        border-radius: 20px;
+    }
+
+    .product-review-slide {
+        position: relative;
+        padding: 0 50px;
+    }
+
+    .product-review-slide .swiper-button-prev, .product-review-slide .swiper-button-next {
+        display: block;
+    }
+
+    .product-review-slide .swiper-button-prev::after, .product-review-slide .swiper-button-next::after {
+        display: none;
+    }
+
+    .grade-ranking-sec .review-ranking-title {
+        max-width: 490px;
+    }
+
+    .vote-directly {
+        margin-bottom: 30px;
+    }
+
+    .review-ranking-box .text-box .media {
+        align-items: start;
+    }
+
+    .review-blaclist-page .product-review-sec {
+        padding: 70px 15px 140px;
+    }
+
+    .review-blaclist-inner {
+        padding: 65px 15px;
+    }
+
+    .text-box-top .text-inner h4 {
+        font-size: 52.31px;
+    }
+
+    .text-box-top .text-inner span {
+        font-size: 32.07px;
+        margin: 15px 0;
+    }
+
+    .text-box-top .text-inner p {
+        font-size: 35px;
+        margin: 0 0 15px 0;
+    }
+
+    .text-box-top {
+        padding: 0 0 20px 0;
+        flex-direction: column;
+        align-items: flex-start;
+        border: none;
+    }
+
+    .more-btn {
+        font-size: 33px;
+        border-radius: 15px;
+        height: 84px;
+        width: 278px;
+        margin-top: 20px;
+        max-width: 100%;
+    }
+
+    .text-box-bottom {
+        padding: 0;
+    }
+
+    .text-box-bottom p {
+        font-size: 28.26px;
+        text-align: left;
+    }
+
+    .time-tag {
+        font-size: 25.88px;
+        height: 50px;
+        max-width: 225px;
+        top: 34px;
+    }
+
+    .review-blaclist-detail .image-holder {
+        max-width: 350px;
+    }
+
+    .review-blaclist-detail .text-box {
+        padding: 40px 40px;
+    }
+
+    .submit-btn a {
+        font-size: 32.12px;
+        border-radius: 18px;
+        height: 83px;
+        max-width: 360px;
+        width: 100%;
+    }
+
+    .single-review-sec {
+        padding: 50px 15px 38px;
+    }
+
+    .single-review-box {
+        padding: 70px 60px 30px;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .single-review-box .image-holder {
+        max-width: 467px;
+        height: 415px;
+    }
+
+    .single-review-box .image-holder img {
+        max-width: 274px;
+        width: 100%;
+    }
+
+    .single-review-box .text-box .media h4 {
+        font-size: 66px;
+        line-height: 1;
+        margin: 25px 0 7px 0;
+    }
+
+    .single-review-box .text-box .media {
+        flex-direction: column;
+    }
+
+    .single-review-box .text-box .media p {
+        font-size: 37px;
+        padding-left: 0;
+        padding-right: 0;
+        margin-bottom: 3px;
+    }
+
+    .single-review-box .text-box .media span {
+        font-size: 19px;
+    }
+
+    .ratting {
+        max-width: 526px;
+        height: 124px;
+        margin: 10px auto;
+    }
+
+    .ratting li img {
+        height: 80px;
+    }
+
+    .single-review-box .text-box .media span {
+        font-size: 19px;
+        margin: 0 0 8px 0;
+    }
+
+    .single-review-box .text-box h5 {
+        font-size: 32px;
+    }
+
+    .single-review-box .text-box h5 img {
+        margin-right: 23px;
+        height: 68px;
+    }
+
+    .visit-btn {
+        font-size: 34px;
+        border-radius: 15px;
+        height: 86px;
+        max-width: 287px;
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .single-review-box .text-box h6 {
+        border-radius: 10px;
+        background-image: -moz-linear-gradient(-90deg, rgb(255, 255, 255) 0%, rgb(242, 242, 242) 100%);
+        background-image: -webkit-linear-gradient(-90deg, rgb(255, 255, 255) 0%, rgb(242, 242, 242) 100%);
+        background-image: -ms-linear-gradient(-90deg, rgb(255, 255, 255) 0%, rgb(242, 242, 242) 100%);
+        box-shadow: 0.418px 2.971px 8.64px 0.36px rgba(12, 12, 12, 0.11);
+        font-size: 36px;
+        height: 89px;
+        max-width: 406px;
+        width: 100%;
+        justify-content: center;
+        margin: 42px auto 25px;
+        border-radius: 15px;
+    }
+
+    .single-review-box .text-box h6 img {
+        height: 36px;
+    }
+
+    .progress {
+        height: 53px;
+    }
+
+    .progress-bar {
+        font-size: 43px;
+        padding: 0 10px 0 0px;
+    }
+
+    .rank-diamond span {
+        border: 3px solid #b09168;
+        width: 88px;
+        height: 88px;
+    }
+
+    .rank-diamond span img {
+        height: 55px;
+    }
+
+    .rank-diamond img {
+        height: 36px;
+    }
+
+    .single-review-box .text-box {
+        padding-left: 0;
+        width: 100%;
+    }
+
+    .single-pros-inner .nav-pills .nav-item .nav-link {
+        font-size: 34px;
+        padding: 30px 15px 95px;
+    }
+
+    .nav-pills {
+        padding: 0;
+        margin: 0;
+    }
+
+    .single-pros-inner .tab-content {
+        margin: -75px 0 0 0;
+        padding: 85px 75px 65px;
+    }
+
+    .basic-detail ul li {
+        font-size: 35px;
+        margin: 0 0 104px 0;
+    }
+
+    .basic-detail ul li span {
+        max-width: 227px;
+    }
+
+    .cons-box h4 {
+        font-size: 36px;
+        margin-bottom: 60px;
+    }
+
+    .cons-box ul li {
+        font-size: 24px;
+        margin-bottom: 64px;
+    }
+
+    .cons-box ul li img {
+        height: 40px;
+        margin-right: 30px;
+    }
+
+    .single-review-pros {
+        margin: 83px 0 0 0;
+    }
+
+    .single-pros-inner {
+        margin: 0 0 76px 0;
+    }
+
+    .single-payment-tab {
+        padding-left: 94px;
+    }
+
+    .single-payment-tab .nav-pills .nav-item .nav-link {
+        padding: 44px 0;
+        font-size: 33px;
+    }
+
+    .single-payment-tab .nav-pills .nav-item {
+        margin-right: 109px;
+    }
+
+    .single-payment-tab .nav-pills {
+        width: 2100px;
+    }
+
+    .payment-review-box .text-box h4 {
+        font-size: 55px;
+        padding-bottom: 34px;
+    }
+
+    .payment-review-box .media .ratting li img {
+        height: 42px;
+    }
+
+    .payment-review-box .text-box p {
+        font-size: 35px;
+        line-height: 1.2;
+        margin-bottom: 30px;
+    }
+
+    .payment-review-box {
+        padding: 110px 15px 0px 15px;
+    }
+
+    .loading-speed span img {
+        height: auto;
+    }
+
+    .loading-speed ul li a {
+        font-size: 28px;
+        padding: 23px 15px;
+    }
+
+    .loading-speed ul {
+        margin: 43px auto;
+        max-width: 100%;
+        padding: 0 15px;
+    }
+
+    .loading-speed {
+        padding: 60px 30px 30px;
+        margin: 30px -30px;
+        border-radius: 0;
+    }
+
+    .loading-speed .text-inner h4 {
+        font-size: 50px;
+    }
+
+    .loading-speed .text-inner p {
+        font-size: 35px;
+        line-height: 1.2;
+        margin: 30px 0;
+    }
+
+    .loading-speed .text-inner a {
+        font-size: 46px;
+    }
+
+    .loading-speed .text-inner a img {
+        margin-right: 25px;
+        height: 70px;
+    }
+
+    .swiper-pagination-bullet {
+        width: 26px;
+        height: 26px;
+    }
+
+    .swiper-counter {
+        font-size: 67px;
+    }
+
+    .provider-slider {
+        padding: 32px 0 0 20px;
+        margin: 0 -30px;
+    }
+
+    .provider-slider h4 {
+        font-size: 42px;
+        margin: 0 0 15px 10px;
+    }
+
+    .provider-box a {
+        height: 272px;
+        padding: 40px;
+    }
+
+    .overall-summary-sec {
+        padding-top: 50px;
+        margin-bottom: 35px;
+    }
+
+    .review-ranking-box.single-ranking-box {
+        margin: 0 15px;
+    }
+
+    .recommended-sec {
+        padding-top: 60px;
+        padding-bottom: 140px;
+    }
+
+    .recommended-box p {
+        font-size: 30px;
+    }
+
+    .recommended-box p img {
+        height: 29px;
+    }
+
+    .recommended-box ul {
+        margin: 33px 0;
+    }
+
+    .recommended-box {
+        height: 330px;
+        padding: 0 20px;
+    }
+
+    .search-dropdown {
+        top: 193px;
+        padding: 70px 50px;
+        max-width: 100%;
+    }
+
+    .search-dropdown form .form-control {
+        font-size: 36px;
+    }
+
+    .search-dropdown form span img {
+        height: 40px;
+    }
+
+    .search-dropdown .text-box h4 {
+        font-size: 35px;
+        margin-bottom: 20px;
+    }
+
+    .search-dropdown .text-box ul li a {
+        height: 55px;
+        border-radius: 10px;
+        font-size: 25px;
+        padding: 0px 35px;
+    }
+
+    .search-dropdown .text-box ul li a img {
+        margin-right: 15px;
+        height: 26px;
+    }
+
+    .submenu {
+        padding: 5px 0px;
+        position: static;
+        transform: translate(0, 0);
+        width: 100%;
+    }
+
+    .submenu ul li a {
+        font-size: 35px;
+        padding: 10px 80px;
+    }
+
+    .media-mobile {
+        display: flex;
+        align-items: center;
+        flex-direction: row-reverse;
+        position: relative;
+    }
+
+    .diamond-user {
+        border: 2px solid #bb9b6a;
+        border-radius: 5px;
+        height: 45px;
+        font-size: 32px;
+        padding: 0 10px;
+        margin-left: 15px;
+        position: absolute;
+        right: -150px;
+        top: -3px;
+    }
+
+    .diamond-user img {
+        height: 24px;
+        margin-right: 10px;
+    }
+
+    .diamond-user {
+        border: 2px solid #bb9b6a;
+        border-radius: 5px;
+        height: 45px;
+        font-size: 32px;
+        padding: 0 10px;
+        margin-left: 15px;
+    }
+
+    .wrapper {
+        padding: 0 0 220px 0;
+    }
+
+    .single-article-sec .breadcrumb .breadcrumb-item, .single-article-sec .breadcrumb .breadcrumb-item a {
+        font-size: 30px;
+    }
+
+    .single-article-sec .breadcrumb-item+.breadcrumb-item::before {
+        font-size: 30px;
+    }
+
+    .article-text {
+        padding: 0 0 7px 0;
+        margin-bottom: 76px;
+    }
+
+    .article-text h3 {
+        font-size: 50px;
+        margin: 0 0 20px 0;
+    }
+
+    .article-text ul li {
+        font-size: 30px;
+    }
+
+    .single-article-box .image-holder {
+        margin: 45px 0;
+    }
+
+    .single-article-box .text-box p {
+        font-size: 35px;
+        line-height: 1.2;
+        margin: 0 0 35px 0;
+    }
+
+    .single-article-box .text-box h4 {
+        font-size: 45px;
+        padding-bottom: 24px;
+        margin-bottom: 35px;
+    }
+
+    .single-article-box {
+        margin-bottom: 90px;
+    }
+
+    .sponsord-tag li a {
+        font-size: 48px;
+        height: 84px;
+        padding: 0 29px;
+    }
+
+    .article-social {
+        margin: 35px 0 0 0;
+    }
+
+    .sponsord-add {
+        padding: 18px 44px 35px 35px;
+        margin-top: 60px;
+    }
+
+    .sponsord-add .media h4 {
+        font-size: 34px;
+    }
+
+    .sponsord-add .media span img {
+        height: auto;
+    }
+
+    .question-box h4 {
+        font-size: 38px;
+    }
+
+    .question-box p {
+        font-size: 38px;
+        margin: 17px 0 40px;
+    }
+
+    .question-box ul li a {
+        font-size: 40px;
+        border-radius: 10px;
+        height: 105px;
+        padding: 0 90px;
+    }
+
+    .single-article-right {
+        margin: 50px 0 0 0;
+    }
+
+    .latest-news {
+        margin: 0 -30px 60px;
+        padding: 76px 0 80px 32px;
+        border-radius: 0;
+    }
+
+    .latest-news h3 {
+        font-size: 63px;
+        margin: 0 0 61px 61px;
+    }
+
+    .latest-news-box,
+    .latest-news-box .image-holder {
+        height: 100%;
+    }
+
+    .latest-news-box .image-holder img {
+        height: 100%;
+        object-fit: cover;
+    }
+
+    .latest-news-box .text-box {
+        padding-left: 35px;
+        padding-bottom: 20px;
+        padding-right: 35px;
+    }
+
+    .latest-news-box .text-box h4 {
+        font-size: 35px;
+    }
+
+    .swiper-slide {
+        height: auto;
+    }
+
+    .latest-news.news-recommendations {
+        border-radius: 10px;
+        padding: 75px 50px;
+    }
+
+    .latest-news.news-recommendations h3 {
+        margin: 0 0 60px 0;
+    }
+
+    .news-recommendations-box .text-box h4 {
+        font-size: 63px;
+    }
+
+    .news-recommendations-box .ratting li img {
+        height: 69px;
+    }
+
+    .news-recommendations-box .ratting {
+        max-width: 446px;
+        height: 105px;
+    }
+
+    .news-recommendations-box .text-box {
+        padding-left: 95px;
+    }
+
+    .news-recommendations-box .text-box p {
+        font-size: 57px;
+    }
+
+    .news-recommendations-box .text-box .ratting {
+        margin: 12px 0px 17px;
+    }
+
+    .news-recommendations-box .text-box p img {
+        height: 50px;
+        margin-right: 17px;
+    }
+
+    .news-recommendations-box .image-holder {
+        max-width: 289px;
+    }
+
+    .news-recommendations-box .image-holder img {
+        width: 100%;
+    }
+
+    .news-recommendations-box {
+        padding: 36px 0;
+    }
+}
+
+@media (max-width:1180px) {
+
+    .what-we-inner .carousel-indicators li {
+        padding: 0 15px;
+    }
+
+    .grade-casino-sec .text-box ul li p br {
+        display: none;
+    }
+
+    .all-article-inner .guide-sport-box .text-box {
+        padding: 0 20px;
+    }
+
+    .all-article-inner .guide-sport-box .text-box .text-box-inner h3 {
+        font-size: 30px;
+    }
+
+    .all-article-inner .guide-sport-box .text-box .text-box-inner p {
+        font-size: 20px;
+    }
+
+    .all-article-inner .guide-sport-list {
+        margin: 15px 0 0 0;
+    }
+
+    .all-article-inner .guide-sport-box .image-holder {
+        max-width: 360px;
+        width: 100%;
+    }
+
+    .verified-error,
+    .verify {
+        font-size: 18px;
+    }
+
+
+    .history-diamond-inner table thead tr th {
+        font-size: 25px;
+    }
+
+    .history-diamond-inner table tbody tr td {
+        font-size: 18px;
+    }
+
+    .profile-diamond-inner .form-group label {
+        font-size: 32px;
+    }
+
+    .navigation-box a {
+        height: 270px;
+        width: 272px;
+        border-radius: 45px;
+    }
+
+    .product-review-box .text-box h4 {
+        font-size: 34px;
+    }
+
+    .vote-ranking-sponsor {
+        margin: -50px 0 -210px 0;
+    }
+
+    .review-blaclist-detail .image-holder {
+        max-width: 280px;
+    }
+
+    .review-blaclist-detail .text-box {
+        padding: 25px 25px;
+    }
+
+    .single-review-box .text-box h5 {
+        font-size: 24px;
+    }
+
+    .single-review-box .text-box h5 img {
+        margin-right: 15px;
+        height: 50px;
+    }
+
+    .single-review-box {
+        padding: 50px 30px 30px;
+    }
+
+    .single-pros-inner .tab-content {
+        margin: -75px 0 0 0;
+        padding: 50px 30px;
+    }
+
+    .loading-speed ul li a {
+        font-size: 20px;
+        padding: 20px 10px;
+    }
+
+    .recommended-box p {
+        font-size: 26px;
+    }
+
+    .latest-news h3 {
+        font-size: 60px;
+    }
+
+    .news-recommendations-box .text-box {
+        padding-left: 65px;
+    }
+}
+
+
+@media (max-width:991px) {
+    header {
+        border-bottom: 2px solid #bb9b6a;
+        padding: 20px 0;
+    }
+
+    .navbar-toggler img {
+        height: 22px;
+    }
+
+    .header-right ul li a.search-icon img {
+        height: 26px;
+    }
+
+    .navbar-brand img {
+        height: 28px;
+    }
+
+    .navbar-nav .nav-item .nav-link {
+        font-size: 22px;
+        line-height: 1;
+        padding: 10px 20px;
+    }
+
+    .navbar-collapse {
+        top: 53px;
+        padding: 10px 0;
+    }
+
+    .banner-sec {
+        padding: 65px 0 35px;
+    }
+
+    .banner-sec .text-box {
+        padding: 0;
+    }
+
+    .banner-sec .text-box h1 {
+        font-size: 30px;
+    }
+
+    .banner-sec .text-box h4 {
+        font-size: 30px;
+        margin: 30px 0;
+    }
+
+    .banner-sec .text-box h4 img {
+        margin-right: 10px;
+        height: 29px;
+    }
+
+    .banner-sec .text-box span img {
+        height: 130px;
+    }
+
+    .carousel-indicators [data-bs-target] {
+        font-size: 26px;
+        border-bottom: 2px solid transparent;
+        padding: 0 0 10px 0;
+    }
+
+    .what-we-sec {
+        padding: 50px 0px;
+    }
+
+    .what-we-inner .text-box h4 {
+        font-size: 36px;
+    }
+
+    .what-we-inner .text-box p {
+        font-size: 22px;
+        line-height: 1.5;
+    }
+
+    .grade-casino-sec .text-box h2 {
+        font-size: 40px;
+        padding-bottom: 25px;
+    }
+
+    .grade-casino-sec .text-box h2::after {
+        height: 4px;
+        max-width: 460px;
+    }
+
+    .grade-casino-sec .text-box ul li {
+        margin-bottom: 20px;
+    }
+
+    .grade-casino-sec .text-box ul li p, .grade-casino-sec .text-box ul li span {
+        font-size: 22px;
+        line-height: 1.5;
+    }
+
+    .grade-casino-sec {
+        padding: 0px 0px 50px;
+    }
+
+    .grade-casino-sec .text-box ul {
+        margin: 30px 0 0 0;
+    }
+
+    .grade-casino-sec .text-box {
+        margin: 30px 0 0 0;
+    }
+
+    .title h2 {
+        font-size: 40px;
+        padding-bottom: 25px;
+    }
+
+    .title h2::after {
+        height: 4px;
+        max-width: 460px;
+    }
+
+    .review-casino-inner .text-box p {
+        font-size: 22px;
+        line-height: 1.5;
+        margin: 0 0 30px 0;
+    }
+
+    .faq-sec {
+        padding: 0;
+    }
+
+    .accordion-button {
+        font-size: 24px;
+        padding: 10px 0;
+    }
+
+    .accordion-body p {
+        line-height: 1.5;
+        font-size: 22px;
+    }
+
+    .community-sec {
+        padding: 50px 0 0;
+    }
+
+    .community-inner {
+        border: 3px solid #bb9b6a;
+        padding: 50px 15px;
+    }
+
+    .community-inner .text-box h3 {
+        font-size: 38px;
+    }
+
+    .community-inner .text-box p {
+        font-size: 22px;
+        margin: 20px 0 0;
+    }
+
+    .community-inner .image-holder {
+        margin: 30px 0;
+    }
+
+    .community-inner .text-box a {
+        font-size: 32px;
+        height: 75px;
+        max-width: 380px;
+        margin: 0 auto;
+        border-radius: 10px;
+    }
+
+    .mobile-footer ul li {
+        width: 116px;
+    }
+
+    .mobile-footer ul li a span {
+        font-size: 22px;
+        margin: 10px 0 0 0;
+    }
+
+    .mobile-footer ul li a img {
+        height: 38px;
+    }
+
+    .mobile-footer ul li.footer-review a img {
+        height: 140px;
+    }
+
+    .mobile-footer {
+        padding: 30px 20px;
+    }
+
+    .mobile-footer ul li.footer-review {
+        margin-top: -77px;
+        margin-right: 0;
+        width: auto;
+    }
+
+    .mobile-footer ul {
+        width: 100%;
+        justify-content: space-between;
+    }
+
+    .mobile-footer ul li {
+        margin-right: 0;
+    }
+
+    .breadcrumb .breadcrumb-item, .breadcrumb .breadcrumb-item a {
+        font-size: 26px;
+    }
+
+    .breadcrumb-item+.breadcrumb-item::before {
+        font-size: 26px;
+    }
+
+    .privacy-policy-sec {
+        padding: 60px 0px 0;
+    }
+
+    .privacy-policy-inner h3 {
+        font-size: 36px;
+        margin: 0px 0 20px 0;
+    }
+
+    .privacy-policy-inner .text-box p,
+    .privacy-policy-inner .text-box h4 {
+        font-size: 22px;
+        line-height: 1.5;
+    }
+
+    .privacy-policy-inner .text-box {
+        margin: 0 0 30px 0;
+    }
+
+    .help-box h4 {
+        font-size: 36px;
+        margin: 0 0 20px 0;
+    }
+
+    .help-box p {
+        font-size: 22px;
+        line-height: 1.5;
+    }
+
+    .monthly-sponsored-box {
+        padding: 35px 30px;
+        border-radius: 30px;
+        margin-bottom: 30px;
+    }
+
+    .monthly-sponsored-box h3 {
+        font-size: 38px;
+        margin: 0 0 10px 0;
+    }
+
+    .monthly-sponsored-box p,
+    .guide-sport-text p {
+        font-size: 22px;
+        line-height: 1.5;
+    }
+
+    .guide-sport {
+        padding: 10px 0px;
+    }
+
+    .guide-sport-text .media h3 {
+        font-size: 38px;
+    }
+
+    .guide-sport-text .media a {
+        font-size: 22px;
+    }
+
+    .guide-sport-inner {
+        margin: 0 0 0 -5px;
+    }
+
+    .guide-swiper-btn .swiper-button-next, .guide-swiper-btn .swiper-button-prev {
+        width: 60px;
+        height: 60px;
+        border-radius: 10px;
+        margin-left: 15px;
+    }
+
+    .guide-swiper-btn {
+        padding: 0;
+        margin: 0px 0 20px;
+    }
+
+    .guide-sport-box .text-box .text-box-inner {
+        padding: 10px 15px;
+    }
+
+    .guide-sport-box .text-box .text-box-inner h3 {
+        font-size: 22px;
+        margin: 10px 0;
+    }
+
+    .guide-sport-box .text-box .text-box-inner p {
+        font-size: 16px;
+        line-height: 1.5;
+    }
+
+    .guide-sport-text .media h3 {
+        font-size: 22px;
+    }
+
+    .all-article-sec .guide-sport-text {
+        padding: 0;
+    }
+
+    .all-article-inner .guide-sport-box .text-box .text-box-inner ul li {
+        font-size: 14px;
+    }
+
+    .all-article-inner .guide-sport-box .text-box .text-box-inner h3 {
+        font-size: 22px;
+    }
+
+    .all-article-inner .guide-sport-box .text-box .text-box-inner p {
+        font-size: 16px;
+    }
+
+    .all-article-inner .guide-sport-list ul li a {
+        font-size: 18px;
+        height: 35px;
+        border-radius: 4px;
+        color: #7f7f7f;
+        padding: 0 5px;
+    }
+
+    .all-article-inner .guide-sport-box .image-holder {
+        max-width: 290px;
+        width: 100%;
+    }
+
+    .more-history a img {
+        height: 45px;
+    }
+
+    .all-article-sec .more-history a {
+        font-size: 18px;
+    }
+
+    .more-history {
+        margin: 20px 0 0 0;
+    }
+
+    .contact-us-sec .text-box h4 {
+        font-size: 42px;
+    }
+
+    .contact-us-sec .text-box p {
+        font-size: 22px;
+        padding: 20px 0;
+    }
+
+    .contact-us-sec .text-box a {
+        font-size: 28px;
+        height: 75px;
+        max-width: 240px;
+        width: 100%;
+    }
+
+    .contact-us-sec {
+        padding: 50px 15px 90px;
+    }
+
+    .contact-modal .modal-content {
+        border: 3px solid #bb9b6a;
+        border-radius: 30px;
+    }
+
+    .contact-modal .modal-dialog {
+        max-width: 95%;
+    }
+
+    .contact-modal .modal-body {
+        padding: 20px;
+    }
+
+    .contact-modal .modal-body h4 {
+        font-size: 35px;
+        margin: 0 0 30px 0;
+    }
+
+    .label-text {
+        font-size: 24px;
+    }
+
+    .contact-form .form-control {
+        height: 50px;
+        font-size: 22px;
+        border-radius: 10px;
+        padding-left: 20px;
+    }
+
+    .contact-form .form-group {
+        margin-bottom: 30px;
+    }
+
+    .contact-form textarea.form-control {
+        height: 180px;
+    }
+
+    .btn-default {
+        height: 60px;
+        max-width: 170px;
+        font-size: 24px;
+        border-radius: 15px;
+    }
+
+    .close-btn img {
+        height: 15px;
+    }
+
+    .close-btn {
+        top: 20px;
+        right: 20px;
+    }
+
+    .sponsore-award-sec {
+        padding: 85px 15px;
+        margin: 0 0 70px 0;
+    }
+
+    .sponsore-award-inner .image-holder {
+        margin: -50px 0 0;
+        max-width: 350px;
+    }
+
+    .sponsore-award-inner .text-box h4 {
+        font-size: 32px;
+    }
+
+    .sponsore-award-inner .text-box p {
+        font-size: 22px;
+        margin: 20px 0;
+    }
+
+    .ask-btn {
+        height: 75px;
+        font-size: 34px;
+        max-width: 300px;
+        border-radius: 10px;
+    }
+
+    .profile-group {
+        max-width: 200px;
+        height: 200px;
+    }
+
+    .profile-group img {
+        height: 90px;
+    }
+
+    .profile-edit img {
+        height: 70px;
+    }
+
+    .profile-edit {
+        bottom: -30px;
+    }
+
+    .profile-tabs .nav-pills .nav-item .nav-link {
+        padding: 20px 15px 45px;
+        font-size: 26px;
+    }
+
+    .profile-detail {
+        padding: 50px 30px;
+    }
+
+    .profile-diamond h3, .buy-diamond h3, .history-diamond h3,
+    .profile-navigation h4 {
+        font-size: 36px;
+    }
+
+    .profile-diamond-inner .form-group label {
+        font-size: 22px;
+    }
+
+    .profile-diamond-inner .form-group .form-control {
+        height: 55px;
+        font-size: 22px;
+        border-radius: 5px;
+        padding-left: 20px;
+    }
+
+    .edit-field img {
+        height: 40px;
+    }
+
+    .profile-diamond-inner .form-group {
+        position: relative;
+        margin-bottom: 20px;
+    }
+
+    .dimoand-held img {
+        height: 30px;
+    }
+
+    .dimoand-held {
+        font-size: 28px;
+        padding: 0 20px;
+        height: 65px;
+        max-width: 140px;
+    }
+
+    .navigation-box a {
+        height: 200px;
+        width: 200px;
+        border-radius: 30px;
+    }
+
+    .navigation-box a span img {
+        height: 70px;
+    }
+
+    .navigation-box a p {
+        font-size: 24px;
+    }
+
+    .navigation-box a span {
+        min-height: 73px;
+        margin-bottom: 15px;
+    }
+
+    .logout-bnt {
+        display: flex;
+        margin: 50px 0 0 auto;
+        height: 70px;
+        max-width: 200px;
+        font-size: 28px;
+    }
+
+    .profile-diamond-inner {
+        margin: 20px 0 0 0;
+    }
+
+    .buy-diamond-box .text-box {
+        padding: 20px;
+    }
+
+    .buy-diamond-box .text-box h4 {
+        font-size: 24px;
+        margin: 0 0 30px 0;
+    }
+
+    .price {
+        padding: 15px 15px;
+    }
+
+    .price h5 {
+        font-size: 36px;
+    }
+
+    .buy-diamond h3 {
+        margin: 0 0 20px 0;
+    }
+
+    .history-diamond-inner table thead tr th {
+        font-size: 18px;
+    }
+
+    .history-diamond-inner table tbody tr td {
+        font-size: 16px;
+        padding: 30px 0;
+    }
+
+    .history-diamond-inner table tbody tr:first-child td {
+        padding: 30px 0;
+    }
+
+    .history-diamond-inner .more-history {
+        margin: 20px 0;
+    }
+
+    .review-list .navigation-box a {
+        border-radius: 32px;
+        height: 220px;
+        padding: 0;
+        width: 220px;
+    }
+
+    .review-list .navigation-box a span img {
+        height: 70px;
+    }
+
+    .review-list .navigation-box a span {
+        min-height: 60px;
+        margin-bottom: 15px;
+    }
+
+    .review-list .navigation-box a p {
+        font-size: 22px;
+    }
+
+    .review-ranking-title h4 {
+        font-size: 36px;
+    }
+
+    .review-ranking-title h4 {
+        font-size: 30px;
+    }
+
+    .review-ranking-title {
+        max-width: 400px;
+        width: 100%;
+        height: 70px;
+    }
+
+    .review-crown img {
+        height: 60px;
+    }
+
+    .review-crown {
+        top: -57px;
+        left: -20px;
+    }
+
+    .review-ranking-inner {
+        padding: 40px 25px;
+    }
+
+    .review-ranking-box {
+        padding: 25px 20px;
+        border-radius: 20px;
+    }
+
+    .review-ranking-box .image-holder {
+        max-width: 130px;
+    }
+
+    .review-ranking-box .text-box {
+        margin-left: 20px;
+        padding-left: 25px;
+        padding-top: 10px;
+    }
+
+    .review-ranking-box .text-box .text-inner h4 {
+        font-size: 28px;
+    }
+
+    .review-ranking-box .text-box .text-inner ul li img {
+        height: 22px;
+    }
+
+    .review-ranking-box .text-box .text-inner ul {
+        max-width: 165px;
+        height: 42px;
+    }
+
+    .review-ranking-box .text-box .text-inner p {
+        font-size: 30px;
+        margin: 0 0 20px 0;
+    }
+
+    .view-btn {
+        font-size: 20px;
+        border-radius: 10px;
+        height: 50px;
+        width: 180px;
+    }
+
+    .ranking-crown img {
+        height: 50px;
+    }
+
+    .ranking-crown {
+        top: -15px;
+        left: -22px;
+    }
+
+    .product-review-sec {
+        padding: 10px 0px 0;
+    }
+
+    .product-review-inner h3 {
+        font-size: 32px;
+        margin: 0 0 20px 0;
+    }
+
+    .product-review-box .text-box h4 {
+        font-size: 28px;
+    }
+
+    .product-review-box .text-box h4 img {
+        height: 30px;
+    }
+
+    .product-review-box .text-box a {
+        font-size: 21px;
+        max-width: 190px;
+        height: 60px;
+        border-radius: 15px;
+    }
+
+    .grade-ranking-sec .review-ranking-title {
+        max-width: 320px;
+    }
+
+    .vote-directly ol li {
+        font-size: 16px;
+        height: 40px;
+        width: 45px;
+        margin-right: 6px;
+    }
+
+    .detail-link {
+        font-size: 18px;
+    }
+
+    .vote-directly-box {
+        margin-bottom: 20px;
+    }
+
+    .vote-ranking-main .more-history {
+        margin: 40px 0 0;
+    }
+
+    .grade-ranking-sec .review-ranking-inner {
+        padding: 40px 25px;
+    }
+
+    .vote-ranking-sponsor {
+        margin: -50px 0 -180px 0;
+    }
+
+    .review-blaclist-tab .nav-pills .nav-item .nav-link span img {
+        height: 34px;
+    }
+
+    .review-blaclist-tab .nav-pills .nav-item .nav-link span {
+        min-height: 34px;
+    }
+
+    .review-blaclist-tab .nav-pills .nav-item .nav-link {
+        font-size: 16px;
+        height: 100px;
+    }
+
+    .time-tag {
+        font-size: 18px;
+        height: 40px;
+        max-width: 160px;
+        top: 20px;
+    }
+
+    .review-blaclist-detail .image-holder {
+        max-width: 220px;
+        padding: 0 20px;
+    }
+
+    .text-box-top .text-inner h4 {
+        font-size: 34px;
+    }
+
+    .text-box-top .text-inner span {
+        font-size: 22px;
+        margin: 10px 0;
+    }
+
+    .text-box-top .text-inner p {
+        font-size: 22px;
+        margin: 0 0 10px 0;
+    }
+
+    .more-btn {
+        font-size: 23px;
+        border-radius: 10px;
+        height: 60px;
+        width: 170px;
+        margin-top: 20px;
+        max-width: 100%;
+    }
+
+    .text-box-bottom p {
+        font-size: 20px;
+    }
+
+    .review-blaclist-detail {
+        margin: 0 0 20px 0;
+    }
+
+    .review-blaclist-inner .more-history {
+        margin: 40px 0 40px 0;
+    }
+
+    .submit-btn a {
+        font-size: 22px;
+        border-radius: 10px;
+        max-width: 260px;
+        width: 100%;
+        height: 64px;
+    }
+
+    .single-review-box .image-holder {
+        max-width: 300px;
+        height: 300px;
+    }
+
+    .single-review-box .image-holder img {
+        max-width: 165px;
+    }
+
+    .single-review-box .text-box .media h4 {
+        font-size: 46px;
+        margin: 20px 0;
+    }
+
+    .ratting li img {
+        height: 40px;
+    }
+
+    .ratting {
+        max-width: 300px;
+        height: 70px;
+        margin: 10px auto;
+    }
+
+    .single-review-box .text-box h5 {
+        font-size: 18px;
+        justify-content: center;
+    }
+
+    .single-review-box .text-box h5 img {
+        margin-right: 10px;
+        height: 32px;
+    }
+
+    .visit-btn {
+        font-size: 24px;
+        border-radius: 15px;
+        height: 70px;
+        max-width: 215px;
+    }
+
+    .single-review-box .text-box h6 {
+        font-size: 26px;
+        height: 76px;
+        max-width: 286px;
+        margin: 30px auto;
+        border-radius: 15px;
+    }
+
+    .progress-bar {
+        font-size: 22px;
+    }
+
+    .progress {
+        height: 40px;
+    }
+
+    .rank-diamond img {
+        height: 24px;
+    }
+
+    .rank-diamond span img {
+        height: 34px;
+    }
+
+    .rank-diamond span {
+        border: 3px solid #b09168;
+        width: 70px;
+        height: 70px;
+    }
+
+    .single-pros-inner .nav-pills .nav-item .nav-link {
+        font-size: 24px;
+        padding: 25px 15px 90px;
+    }
+
+    .single-review-pros {
+        margin: 50px 0 0 0;
+    }
+
+    .basic-detail ul li {
+        font-size: 24px;
+        margin: 0 0 50px 0;
+    }
+
+    .basic-detail ul li span {
+        max-width: 140px;
+    }
+
+    .single-pros-inner {
+        margin: 0 0 50px 0;
+    }
+
+    .cons-box ul li img {
+        height: auto;
+        margin-right: 15px;
+    }
+
+    .cons-box ul li {
+        font-size: 20px;
+        margin-bottom: 25px;
+    }
+
+    .cons-box h4 {
+        font-size: 26px;
+        margin-bottom: 20px;
+    }
+
+    .cons-box {
+        margin-bottom: 30px;
+    }
+
+    .single-payment-tab {
+        padding-left: 30px;
+    }
+
+    .single-payment-tab .nav-pills .nav-item .nav-link {
+        padding: 20px 0;
+        font-size: 18px;
+    }
+
+    .single-payment-tab .nav-pills .nav-item {
+        margin-right: 50px;
+    }
+
+    .single-payment-tab .nav-pills {
+        width: 1110px;
+    }
+
+    .payment-review-box {
+        padding: 50px 0 0px 0;
+    }
+
+    .payment-review-box .media .ratting li img {
+        height: 26px;
+    }
+
+    .payment-review-box .media .ratting {
+        height: 50px;
+        padding-right: 20px;
+        padding-left: 40px;
+    }
+
+    .payment-review-box .text-box h4 {
+        font-size: 28px;
+        padding-bottom: 15px;
+    }
+
+    .payment-review-box .text-box p {
+        font-size: 22px;
+        line-height: 1.5;
+        margin-bottom: 20px;
+    }
+
+    .loading-speed {
+        padding: 50px 30px;
+    }
+
+    .loading-speed span img {
+        height: 130px;
+    }
+
+    .loading-speed ul li a {
+        font-size: 16px;
+        padding: 20px 10px;
+    }
+
+    .loading-speed .text-inner h4 {
+        font-size: 24px;
+    }
+
+    .loading-speed .text-inner p {
+        font-size: 21px;
+        line-height: 1.5;
+        margin: 25px 0;
+    }
+
+    .loading-speed .text-inner a img {
+        margin-right: 15px;
+        height: 35px;
+    }
+
+    .loading-speed .text-inner a {
+        font-size: 24px;
+        margin: 5px 0px;
+    }
+
+    .swiper-pagination-bullet {
+        width: 15px;
+        height: 15px;
+        margin: 0 8.5px !important;
+    }
+
+    .swiper-counter {
+        font-size: 34px;
+    }
+
+    .provider-slider h4 {
+        font-size: 32px;
+    }
+
+
+
+    .modal-video .modal-dialog {
+        max-width: 90%;
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .search-dropdown {
+        top: 72px;
+        padding: 30px 30px;
+        max-width: 100%;
+    }
+
+    .search-dropdown form span img {
+        height: 22px;
+    }
+
+    .search-dropdown form .form-control {
+        font-size: 22px;
+        padding: 0 0 0 40px;
+    }
+
+    .search-dropdown .text-box h4 {
+        font-size: 22px;
+    }
+
+    .search-dropdown .text-box ul li a img {
+        margin-right: 15px;
+        height: 14px;
+    }
+
+    .search-dropdown .text-box ul li a {
+        height: 30px;
+        border-radius: 5px;
+        font-size: 14px;
+        padding: 0px 15px;
+    }
+
+    .search-dropdown .text-box {
+        margin: 0 0 20px 0;
+    }
+
+    .submenu ul li a {
+        font-size: 22px;
+        padding: 10px 40px;
+        line-height: 1;
+    }
+
+    .diamond-user img {
+        height: 18px;
+        margin-right: 5px;
+    }
+
+    .diamond-user {
+        border: 2px solid #bb9b6a;
+        border-radius: 5px;
+        height: 35px;
+        font-size: 24px;
+        padding: 0 7px;
+        margin: 0;
+        right: -90px;
+        top: -6px;
+    }
+
+    .article-text h3 {
+        font-size: 32px;
+        margin: 0 0 15px 0;
+    }
+
+    .single-article-sec .breadcrumb .breadcrumb-item, .single-article-sec .breadcrumb .breadcrumb-item a, .single-article-sec .breadcrumb-item+.breadcrumb-item::before {
+        font-size: 26px;
+    }
+
+    .article-text ul li {
+        font-size: 20px;
+    }
+
+    .article-text {
+        padding: 0 0 10px 0;
+        margin-bottom: 6px;
+    }
+
+    .single-article-box .text-box p {
+        font-size: 24px;
+        line-height: 1.5;
+        margin: 0 0 20px 0;
+    }
+
+    .single-article-box .image-holder {
+        margin: 25px 0;
+    }
+
+    .single-article-box .text-box h4 {
+        font-size: 30px;
+        padding-bottom: 10px;
+        margin-bottom: 15px;
+    }
+
+    .single-article-box {
+        margin-bottom: 30px;
+    }
+
+    .sponsord-tag li a {
+        font-size: 22px;
+        height: 45px;
+        padding: 0 15px;
+        border-radius: 8px;
+    }
+
+    .article-social {
+        margin: 20px 0 0 0;
+        padding: 10px 15px;
+    }
+
+    .sponsord-add .media span img {
+        height: 50px;
+        margin-left: 15px;
+    }
+
+    .sponsord-add .media h4 {
+        font-size: 22px;
+    }
+
+    .sponsord-add {
+        padding: 20px;
+        margin-top: 30px;
+    }
+
+    .question-box h4 {
+        font-size: 24px;
+    }
+
+    .question-box p {
+        font-size: 24px;
+        margin: 20px 0;
+    }
+
+    .question-box ul li a {
+        font-size: 20px;
+        border-radius: 5px;
+        height: 50px;
+        padding: 0 50px;
+    }
+
+    .question-box {
+        padding: 30px 10px;
+        margin: 30px 0 0 0;
+    }
+
+    .latest-news h3 {
+        font-size: 24px;
+        margin: 0 0 20px 20px;
+    }
+
+    .latest-news-box .text-box {
+        padding-left: 15px;
+        padding-bottom: 15px;
+        padding-right: 15px;
+    }
+
+    .latest-news-box .text-box h4 {
+        font-size: 24px;
+    }
+
+    .latest-news {
+        margin: 0 -30px 30px;
+        padding: 30px 0 30px 30px;
+        border-radius: 0;
+    }
+
+    .latest-news.news-recommendations {
+        padding: 30px;
+    }
+
+    .news-recommendations-box .image-holder {
+        max-width: 100px;
+    }
+
+    .news-recommendations-box .text-box h4 {
+        font-size: 20px;
+    }
+
+    .news-recommendations-box .ratting li img {
+        height: auto;
+    }
+
+    .news-recommendations-box .text-box .ratting {
+        margin: 15px 0;
+        max-width: 215px;
+        height: 50px;
+    }
+
+    .news-recommendations-box .text-box p {
+        font-size: 26px;
+    }
+
+    .news-recommendations-box .text-box p img {
+        height: 32px;
+        margin-right: 10px;
+    }
+
+    .news-recommendations-box .text-box {
+        padding-left: 20px;
+    }
+
+    .news-recommendations-box {
+        padding: 15px 0;
+    }
+
+    .latest-news.news-recommendations h3 {
+        margin: 0 0 15px 0;
+    }
+}
+
+@media (max-width:767px) {
+    .navbar-brand img {
+        height: 22px;
+    }
+
+    .banner-sec .text-box h1 {
+        font-size: 26px;
+    }
+
+    .banner-sec .text-box h4 {
+        font-size: 24px;
+        margin: 20px 0;
+    }
+
+    .banner-sec .text-box h4 img {
+        height: 20px;
+    }
+
+    .banner-sec .text-box span img {
+        height: 100px;
+    }
+
+    .banner-sec .text-box span {
+        margin: 20px 0 0 0;
+    }
+
+    .banner-sec {
+        padding: 45px 0 30px;
+    }
+
+    .carousel-indicators [data-bs-target] {
+        font-size: 21px;
+    }
+
+    .what-we-inner .text-box h4 {
+        font-size: 28px;
+    }
+
+    .what-we-inner .text-box {
+        margin: 50px 0 0 0;
+    }
+
+    .what-we-inner .text-box p {
+        font-size: 16px;
+        line-height: 1.5;
+    }
+
+    .grade-casino-sec .text-box h2 {
+        font-size: 26px;
+        padding-bottom: 15px;
+    }
+
+    .grade-casino-sec .text-box h2::after {
+        height: 2px;
+        max-width: 280px;
+    }
+
+    .grade-casino-sec .text-box ul li p, .grade-casino-sec .text-box ul li span {
+        font-size: 16px;
+        line-height: 1.5;
+    }
+
+    .grade-casino-sec .text-box ul {
+        margin: 20px 0 0 0;
+    }
+
+    .title h2 {
+        font-size: 26px;
+        padding-bottom: 15px;
+    }
+
+    .title h2::after {
+        height: 2px;
+        max-width: 280px;
+    }
+
+    .review-casino-inner {
+        margin: 30px 0 0 0;
+    }
+
+    .review-casino-inner .text-box p {
+        font-size: 16px;
+        line-height: 1.5;
+        margin: 0 0 15px 0;
+    }
+
+    .faq-inner {
+        margin: 30px auto 0;
+    }
+
+    .accordion-button {
+        font-size: 16px;
+        padding: 10px 0;
+    }
+
+    .accordion-body p {
+        font-size: 16px;
+    }
+
+    .community-inner .text-box h3 {
+        font-size: 26px;
+    }
+
+    .community-inner .text-box p {
+        font-size: 16px;
+        margin: 15px 0 0;
+    }
+
+    .community-inner .text-box a {
+        font-size: 20px;
+        height: 60px;
+        max-width: 230px;
+        margin: 0 auto;
+        border-radius: 10px;
+    }
+
+    .mobile-footer {
+        padding: 30px 5px;
+    }
+
+    .mobile-footer ul li a span {
+        font-size: 16px;
+        margin: 10px 0 0 0;
+    }
+
+    .monthly-sponsored-sec {
+        padding: 50px 0;
+    }
+
+    .monthly-sponsored-box {
+        padding: 25px 20px;
+        border-radius: 15px;
+        margin-bottom: 30px;
+    }
+
+    .monthly-sponsored-box p, .guide-sport-text p {
+        font-size: 18px;
+        line-height: 1.5;
+    }
+
+    .guide-swiper-btn .swiper-button-next, .guide-swiper-btn .swiper-button-prev {
+        width: 50px;
+        height: 50px;
+        border-radius: 5px;
+        margin-left: 15px;
+    }
+
+    .guide-swiper-btn .swiper-button-next img, .guide-swiper-btn .swiper-button-prev img {
+        height: 18px;
+    }
+
+    .all-article-sec {
+        margin: 0px 0 0 0;
+    }
+
+    .all-article-inner {
+        margin: 0;
+    }
+
+    .all-article-inner .guide-sport-box {
+        margin: 15px 0;
+    }
+
+    .all-article-inner .guide-sport-box {
+        flex-direction: column;
+    }
+
+    .all-article-inner .guide-sport-box .image-holder {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .all-article-inner .guide-sport-box .image-holder img {
+        width: 100%;
+        border-radius: 0;
+    }
+
+    .all-article-inner .guide-sport-box .text-box {
+        padding: 25px 25px 30px;
+    }
+
+    .contact-us-sec {
+        padding: 50px 0px 80px;
+    }
+
+    .contact-us-sec .text-box a {
+        font-size: 18px;
+        height: 60px;
+        max-width: 190px;
+        width: 100%;
+    }
+
+    .contact-us-sec .text-box p {
+        font-size: 18px;
+        padding: 20px 0;
+    }
+
+    .contact-us-sec .text-box h4 {
+        font-size: 32px;
+    }
+
+    .contact-modal .modal-body h4 {
+        font-size: 26px;
+    }
+
+    .label-text {
+        font-size: 20px;
+        display: block;
+        margin: 0 0 10px 0;
+    }
+
+    .contact-form .form-control {
+        height: 45px;
+        font-size: 20px;
+    }
+
+    .contact-form .form-group {
+        margin-bottom: 15px;
+    }
+
+    .contact-form textarea.form-control {
+        height: 130px;
+    }
+
+    .enquiry-now-btn {
+        font-size: 20px;
+        border-radius: 10px;
+        height: 60px;
+        max-width: 190px;
+    }
+
+    .sponsore-award-inner .image-holder {
+        margin: -40px 0 0;
+        max-width: 200px;
+    }
+
+    .sponsore-award-sec {
+        padding: 60px 15px;
+    }
+
+    .sponsore-award-inner {
+        padding: 0 15px 20px;
+        border-radius: 20px;
+        ;
+        border: 5px solid #bb9b6a;
+    }
+
+    .sponsore-award-inner .text-box h4 {
+        font-size: 24px;
+    }
+
+    .sponsore-award-inner .text-box p {
+        font-size: 16px;
+        margin: 15px 0;
+    }
+
+    .ask-btn {
+        height: 60px;
+        font-size: 22px;
+        max-width: 200px;
+        border-radius: 10px;
+    }
+
+    .profile-sec {
+        padding: 20px 0 0 0;
+    }
+
+    .profile-group {
+        max-width: 140px;
+        height: 140px;
+    }
+
+    .profile-group img {
+        height: 60px;
+    }
+
+    .profile-edit {
+        bottom: -20px;
+    }
+
+    .profile-edit img {
+        height: 50px;
+    }
+
+    .profile-bg {
+        height: 180px;
+    }
+
+    .profile-tabs .nav-pills .nav-item .nav-link {
+        padding: 15px 15px 40px;
+        font-size: 20px;
+    }
+
+    .profile-tabs {
+        margin: 60px auto 0px;
+    }
+
+    .profile-detail {
+        padding: 30px 20px;
+    }
+
+    .profile-diamond h3, .buy-diamond h3, .history-diamond h3, .profile-navigation h4 {
+        font-size: 28px;
+    }
+
+    .profile-diamond-inner .form-group .form-control {
+        height: 50px;
+        font-size: 18px;
+        border-radius: 5px;
+        padding-left: 15px;
+    }
+
+    .navigation-box a {
+        height: 155px;
+        width: 155px;
+        border-radius: 20px;
+    }
+
+    .navigation-box a span img {
+        height: 48px;
+    }
+
+    .navigation-box a span {
+        min-height: 48px;
+        margin-bottom: 15px;
+    }
+
+    .navigation-box a p {
+        font-size: 18px;
+    }
+
+    .logout-bnt {
+        height: 55px;
+        max-width: 140px;
+        font-size: 18px;
+    }
+
+    .buy-diamond .row {
+        margin: 0 -15px;
+    }
+
+    .buy-diamond [class*="col-"] {
+        padding: 0 15px;
+    }
+
+    .buy-diamond-box .text-box h4 {
+        font-size: 20px;
+        margin: 0 0 25px 0;
+    }
+
+    .buy-diamond-box .text-box span img {
+        height: 50px;
+    }
+
+    .price {
+        padding: 10px 15px;
+    }
+
+    .price h5 {
+        font-size: 24px;
+    }
+
+    .buy-diamond h3 {
+        margin: 0 0 5px 0;
+    }
+
+    .history-diamond-inner table thead tr th {
+        font-size: 14px;
+    }
+
+    .history-diamond-inner table tbody tr td {
+        font-size: 14px;
+        padding: 20px 0;
+    }
+
+    .history-diamond-inner table tbody tr:first-child td {
+        padding: 20px 0;
+    }
+
+    .history-diamond-inner .more-history {
+        margin: 20px 0 0;
+    }
+
+    .history-diamond-inner .more-history img {
+        margin: 0;
+        height: 30px;
+    }
+
+    .review-inner {
+        margin: 50px 0 0 0px;
+    }
+
+    .review-list .navigation-box a {
+        border-radius: 23px;
+        height: 170px;
+        padding: 0;
+        width: 170px;
+    }
+
+    .review-list .navigation-box a span img {
+        height: 52px;
+    }
+
+    .review-list .navigation-box a span {
+        min-height: 40px;
+    }
+
+    .review-list .navigation-box a p {
+        font-size: 18px;
+    }
+
+    .review-ranking-title h4 {
+        font-size: 22px;
+    }
+
+    .review-ranking-title {
+        max-width: 320px;
+        width: 100%;
+        height: 60px;
+        border-radius: 15px;
+    }
+
+    .review-crown {
+        top: -38px;
+        left: -10px;
+    }
+
+    .review-crown img {
+        height: 33px;
+    }
+
+    .ranking-crown img {
+        height: 36px;
+    }
+
+    .ranking-crown {
+        top: -13px;
+        left: -13px;
+    }
+
+    .review-ranking-box {
+        padding: 20px 15px;
+    }
+
+    .review-ranking-box .image-holder {
+        max-width: 90px;
+    }
+
+    .grade-ranking-sec .review-ranking-title {
+        max-width: 220px;
+    }
+
+    .vote-ranking-sponsor {
+        margin: -50px 0 -150px 0;
+    }
+
+    .product-review-slide .swiper-button-prev img, .product-review-slide .swiper-button-next img {
+        height: 25px;
+    }
+
+    .product-review-slide .swiper-button-prev, .swiper-rtl .swiper-button-next {
+        left: 0px;
+        right: auto;
+    }
+
+    .product-review-slide .swiper-button-next, .swiper-rtl .swiper-button-prev {
+        right: 0px;
+        left: auto;
+    }
+
+    .grade-ranking-sec .more-history {
+        margin: 40px 0 0 0;
+    }
+
+    .review-blaclist-tab {
+        overflow-x: auto;
+    }
+
+    .review-blaclist-tab .nav-pills {
+        width: 720px;
+    }
+
+    .review-blaclist-detail {
+        flex-direction: column;
+        border-radius: 20px;
+    }
+
+    .review-blaclist-detail .image-holder {
+        max-width: 100%;
+        padding: 85px 15px 40px;
+        border-radius: 20px 20px 0 0;
+    }
+
+    .review-blaclist-detail .text-box {
+        padding: 20px 20px;
+    }
+
+    .text-box-top .text-inner h4 {
+        font-size: 24px;
+    }
+
+    .text-box-top .text-inner span {
+        font-size: 18px;
+        margin: 15px 0;
+    }
+
+    .text-box-top .text-inner p {
+        font-size: 20px;
+        margin: 0 0 10px 0;
+    }
+
+    .more-btn {
+        font-size: 20px;
+        border-radius: 10px;
+        height: 55px;
+        width: 165px;
+        margin-top: 15px;
+        max-width: 100%;
+    }
+
+    .text-box-top {
+        padding: 0 0 15px 0;
+    }
+
+    .review-blaclist-inner {
+        padding: 50px 0px;
+    }
+
+    .review-blaclist-inner .more-history {
+        margin: 30px 0;
+    }
+
+    .submit-btn a {
+        font-size: 18px;
+        max-width: 200px;
+        width: 100%;
+        height: 55px;
+    }
+
+    .review-blaclist-page .product-review-sec {
+        padding: 50px 0 0;
+    }
+
+    .product-review-inner h3 {
+        font-size: 26px;
+        margin: 0 0 15px 0;
+    }
+
+    .file-upload label {
+        font-size: 22px;
+    }
+
+    .file-upload label span img {
+        height: 18px;
+    }
+
+    .file-upload label span {
+        font-size: 22px;
+        height: 60px;
+        max-width: 170px;
+    }
+
+    .single-pros-inner .nav-pills .nav-item .nav-link {
+        font-size: 18px;
+        padding: 20px 15px 90px;
+    }
+
+    .basic-detail ul li {
+        font-size: 18px;
+        margin: 0 0 30px 0;
+    }
+
+    .single-pros-inner .tab-content {
+        padding: 30px 20px;
+        border-radius: 15px;
+    }
+
+    .loading-speed ul {
+        margin: 43px auto;
+        max-width: 100%;
+        padding: 0;
+    }
+
+    .loading-speed ul li a {
+        font-size: 14px;
+        padding: 15px 5px;
+    }
+
+    .loading-speed ul li a img {
+        height: 15px;
+    }
+
+    .modal-video .modal-content {
+        border: none;
+        border-radius: 15px;
+    }
+
+    .modal-video .modal-body {
+        padding: 20px;
+    }
+
+    .modal-video .btn-close {
+        width: 30px;
+        height: 30px;
+        top: -15px;
+        right: -15px;
+    }
+
+    .modal-video .btn-close img {
+        height: 15px;
+    }
+
+    iframe {
+        border-radius: 15px;
+        width: 100%;
+    }
+
+    .next-btn {
+        font-size: 20px;
+        margin: 20px 0 0 0;
+    }
+
+    .next-btn img {
+        margin-left: 10px;
+        height: 16px;
+    }
+
+    .search-dropdown .text-box ul li a {
+        padding: 0px 10px;
+    }
+
+    .search-dropdown form {
+        margin: 0 0 30px 0;
+    }
+
+    .search-dropdown {
+        padding: 30px 20px;
+    }
+
+    .submenu ul li a {
+        font-size: 16px;
+        padding: 10px 30px;
+        line-height: 1;
+    }
+
+    .single-article-sec .breadcrumb .breadcrumb-item, .single-article-sec .breadcrumb .breadcrumb-item a, .single-article-sec .breadcrumb-item+.breadcrumb-item::before {
+        font-size: 20px;
+    }
+
+    .article-text h3 {
+        font-size: 20px;
+        margin: 0 0 10px 0;
+    }
+
+    .article-text ul li {
+        font-size: 16px;
+    }
+
+    .single-article-box .text-box p {
+        font-size: 18px;
+        line-height: 1.5;
+        margin: 0 0 15px 0;
+    }
+
+    .single-article-box .text-box h4 {
+        font-size: 20px;
+        padding-bottom: 10px;
+        margin-bottom: 10px;
+    }
+
+    .sponsord-tag li a {
+        font-size: 18px;
+        height: 40px;
+    }
+
+    .question-box h4 {
+        font-size: 20px;
+    }
+
+    .question-box p {
+        font-size: 20px;
+        margin: 20px 0;
+    }
+
+    .latest-news-box .text-box h4 {
+        font-size: 18px;
+    }
+}
+
+@media (max-width:575px) {
+    header {
+        padding: 15px 0;
+    }
+
+    .navbar-toggler img {
+        height: 16px;
+    }
+
+    .header-right ul li a.search-icon img {
+        height: 18px;
+    }
+
+    .navbar-brand img {
+        height: 18px;
+    }
+
+    .navbar-nav .nav-item .nav-link {
+        font-size: 16px;
+        padding: 10px 15px;
+    }
+
+    .navbar-collapse {
+        top: 47px;
+    }
+
+    .banner-sec .text-box h1 {
+        font-size: 22px;
+    }
+
+    .banner-sec .text-box h4 {
+        font-size: 16px;
+        margin: 15px 0;
+    }
+
+    .banner-sec .text-box h4 img {
+        height: 16px;
+    }
+
+    .banner-sec .text-box span {
+        margin: 15px 0 0 0;
+    }
+
+    .banner-sec .text-box span img {
+        height: 70px;
+    }
+
+    .what-we-inner .carousel-indicators li {
+        padding: 0 7px;
+    }
+
+    .carousel-indicators [data-bs-target] {
+        font-size: 16px;
+        padding: 0 0 5px 0;
+    }
+
+    .what-we-inner .text-box h4 {
+        font-size: 22px;
+        margin-bottom: 10px;
+    }
+
+    .what-we-inner .text-box {
+        margin: 30px 0 0 0;
+    }
+
+    .what-we-inner .text-box p {
+        font-size: 14px;
+        line-height: 1.5;
+    }
+
+    .grade-casino-sec .text-box h2 {
+        font-size: 20px;
+        padding-bottom: 10px;
+    }
+
+    .grade-casino-sec .text-box h2::after {
+        height: 2px;
+        max-width: 220px;
+    }
+
+    .grade-casino-sec .text-box ul li p, .grade-casino-sec .text-box ul li span {
+        font-size: 14px;
+        line-height: 1.5;
+    }
+
+    .grade-casino-sec .text-box ul li {
+        margin-bottom: 15px;
+    }
+
+    .title h2 {
+        font-size: 20px;
+        padding-bottom: 10px;
+    }
+
+    .title h2::after {
+        height: 2px;
+        max-width: 220px;
+    }
+
+    .review-casino-inner .text-box p {
+        font-size: 14px;
+    }
+
+    .accordion-button {
+        font-size: 14px;
+    }
+
+    .accordion-body p {
+        font-size: 14px;
+    }
+
+    .community-inner {
+        border: 2px solid #bb9b6a;
+        padding: 30px 15px;
+    }
+
+    .community-inner .text-box p {
+        font-size: 14px;
+    }
+
+    .community-inner .text-box h3 {
+        font-size: 22px;
+    }
+
+    .community-inner .text-box a {
+        font-size: 18px;
+        height: 50px;
+        max-width: 190px;
+        margin: 0 auto;
+        border-radius: 5px;
+    }
+
+    .mobile-footer ul li a img {
+        height: 24px;
+    }
+
+    .mobile-footer ul li a span {
+        font-size: 13px;
+    }
+
+    .mobile-footer ul li {
+        width: 74px;
+    }
+
+    .mobile-footer ul li.footer-review {
+        margin-top: -63px;
+        margin-right: 0;
+        width: auto;
+    }
+
+    .mobile-footer ul li.footer-review a img {
+        height: 100px;
+    }
+
+    .breadcrumb .breadcrumb-item, .breadcrumb .breadcrumb-item a {
+        font-size: 16px;
+    }
+
+    .breadcrumb-item+.breadcrumb-item::before {
+        font-size: 16px;
+    }
+
+    .privacy-policy-inner h3 {
+        font-size: 26px;
+        margin: 0px 0 15px 0;
+    }
+
+    .privacy-policy-inner .text-box {
+        margin: 0 0 15px 0;
+    }
+
+    .privacy-policy-inner .text-box p, .privacy-policy-inner .text-box h4 {
+        font-size: 16px;
+        line-height: 1.5;
+    }
+
+    .privacy-policy-sec {
+        padding: 50px 0px 0;
+    }
+
+    .help-box p {
+        font-size: 16px;
+        line-height: 1.5;
+    }
+
+    .help-box h4 {
+        font-size: 26px;
+        margin: 0 0 15px 0;
+    }
+
+    .monthly-sponsored-box h3 {
+        font-size: 24px;
+        margin: 0 0 10px 0;
+    }
+
+    .monthly-sponsored-box {
+        padding: 20px 15px;
+        border-radius: 15px;
+    }
+
+    .monthly-sponsored-box p, .guide-sport-text p {
+        font-size: 14px;
+        line-height: 1.5;
+    }
+
+    .guide-sport-text .media a {
+        font-size: 16px;
+    }
+
+    .guide-swiper-btn .swiper-button-next, .guide-swiper-btn .swiper-button-prev {
+        width: 40px;
+        height: 40px;
+        border: 2px solid #bb9b6a;
+        margin-left: 15px;
+    }
+
+    .guide-sport-list ul li a {
+        font-size: 16px;
+    }
+
+    .guide-sport-list ul li {
+        margin-right: 10px;
+    }
+
+    .all-article-inner .guide-sport-box {
+        margin: 20px 0;
+    }
+
+    .guide-sport-box {
+        border-radius: 21px;
+    }
+
+    .all-article-inner .guide-sport-box .text-box {
+        padding: 20px 15px 20px;
+    }
+
+    .all-article-inner .guide-sport-list ul li a {
+        font-size: 15px;
+        height: 30px;
+        border-radius: 8px;
+        color: #7f7f7f;
+        padding: 0 5px;
+    }
+
+    .contact-us-sec .text-box p {
+        font-size: 14px;
+        padding: 15px 0;
+    }
+
+    .contact-modal .modal-body h4 {
+        font-size: 22px;
+        margin: 0 0 20px 0;
+    }
+
+    .close-btn img {
+        height: 10px;
+    }
+
+    .close-btn {
+        top: 10px;
+        right: 10px;
+    }
+
+    .contact-us-sec .text-box h4 {
+        font-size: 26px;
+    }
+
+    .contact-us-sec .text-box a {
+        font-size: 16px;
+        height: 50px;
+        max-width: 150px;
+        border-radius: 5px;
+        width: 100%;
+    }
+
+    .contact-modal .modal-content {
+        border-radius: 15px;
+    }
+
+    .btn-default {
+        height: 50px;
+        max-width: 150px;
+        font-size: 20px;
+        border-radius: 10px;
+    }
+
+    .sponsore-award-sec {
+        margin: 0;
+        padding: 60px 0;
+    }
+
+    .sponsore-award-inner .image-holder {
+        margin: -30px 0 0;
+        max-width: 120px;
+    }
+
+    .sponsore-award-inner .text-box h4 {
+        font-size: 20px;
+    }
+
+    .sponsore-award-inner .text-box p {
+        font-size: 14px;
+        margin: 15px 0;
+    }
+
+    .ask-btn {
+        height: 50px;
+        font-size: 18px;
+        max-width: 170px;
+        border-radius: 10px;
+    }
+
+    .down-arrow {
+        position: absolute;
+        top: 50%;
+        transform: translate(0, -50%);
+        right: 2px;
+        height: 94%;
+        width: 40px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: #fff;
+        border-radius: 0 10px 10px 0px;
+    }
+
+    .down-arrow img {
+        height: 10px;
+    }
+
+    .contact-form .form-control {
+        font-size: 16px;
+        padding-left: 10px;
+    }
+
+    .label-text {
+        font-size: 16px;
+    }
+
+    .profile-navigation ul {
+        flex-wrap: wrap;
+        margin: 0 -5px;
+    }
+
+    .profile-navigation ul li {
+        margin: 15px 0 0 0;
+        width: 50%;
+        padding: 0 5px;
+    }
+
+    .navigation-box a {
+        width: 100%;
+        height: 150px;
+    }
+
+    .verified-error img {
+        margin-right: 5px;
+        height: 15px;
+    }
+
+    .width-group .media {
+        align-items: flex-start;
+        margin: 5px 0 0 0;
+        flex-direction: column;
+    }
+
+    .verified-error, .verify {
+        font-size: 16px;
+    }
+
+    .edit-field img {
+        height: 30px;
+    }
+
+    .edit-field {
+        right: -10px;
+        bottom: -10px;
+    }
+
+    .profile-diamond-inner .form-group label {
+        font-size: 18px;
+    }
+
+    .profile-diamond-inner .form-group {
+        position: relative;
+        margin-bottom: 10px;
+    }
+
+    .nav-pills {
+        padding: 0 10px;
+        margin: 0 -3px;
+    }
+
+    .profile-tabs .nav-pills .nav-item {
+        padding: 0 3px;
+    }
+
+    .profile-tabs .nav-pills .nav-item .nav-link {
+        font-size: 16px;
+    }
+
+    .buy-diamond-box .text-box {
+        padding: 15px;
+    }
+
+    .history-diamond-inner table {
+        width: 600px;
+    }
+
+    .profile-navigation {
+        margin: 20px 0 0 0;
+    }
+
+    .profile-group {
+        max-width: 110px;
+        height: 110px;
+    }
+
+    .profile-group img {
+        height: 50px;
+    }
+
+    .profile-edit img {
+        height: 35px;
+    }
+
+    .profile-edit {
+        bottom: -15px;
+    }
+
+    .profile-bg {
+        height: 120px;
+    }
+
+    .profile-tabs {
+        margin: 50px auto 0px;
+    }
+
+    .profile-diamond h3, .buy-diamond h3, .history-diamond h3, .profile-navigation h4 {
+        font-size: 22px;
+    }
+
+    .profile-navigation ul li {
+        width: 100%;
+    }
+
+    .navigation-box a {
+        width: 255px;
+        height: 253px;
+        border-radius: 40px;
+        margin: 0 auto;
+    }
+
+    .navigation-box a span img {
+        height: 100px;
+    }
+
+    .navigation-box a p {
+        font-size: 40px;
+    }
+
+    .review-list ul {
+        flex-direction: column;
+    }
+
+    .review-list .navigation-box a {
+        border-radius: 32px;
+        height: 220px;
+        padding: 0;
+        width: 220px;
+    }
+
+    .review-list .navigation-box a span img {
+        height: 74px;
+    }
+
+    .review-list .navigation-box a p {
+        font-size: 22px;
+    }
+
+    .review-list ul li {
+        margin-bottom: 20px;
+    }
+
+    .review-list ul :last-child:last-child {
+        margin: 0;
+    }
+
+    .review-ranking-inner {
+        padding: 20px 20px;
+    }
+
+    .review-ranking-box {
+        padding: 20px 20px;
+        flex-direction: column;
+    }
+
+    .review-ranking-box .image-holder {
+        max-width: 100%;
+    }
+
+    .review-ranking-box .text-box {
+        margin-left: 0;
+        margin-top: 20px;
+        border: none;
+        padding: 20px 0 0 0;
+        border-top: 1px solid #a9a9a9;
+    }
+
+    .product-review-inner h3 {
+        font-size: 20px;
+        margin: 0 0 15px 0;
+    }
+
+    .product-review-slide {
+        position: relative;
+        padding: 0 20px;
+    }
+
+    .product-review-sec {
+        padding: 0;
+    }
+
+    .vote-ranking-sponsor {
+        margin: 0px 0 -60px 0;
+    }
+
+    .vote-directly ol {
+        flex-wrap: wrap;
+    }
+
+    .vote-directly ol li {
+        height: 45px;
+        width: 45px;
+        margin-right: 5px;
+        margin-bottom: 5px;
+    }
+
+    .vote-directly {
+        margin-bottom: 20px;
+    }
+
+    .more-history a {
+        font-size: 18px;
+    }
+
+    .more-history a img {
+        height: 30px;
+        margin-bottom: 10px;
+    }
+
+    .review-ranking.grade-ranking-sec {
+        margin: 50px 0 0 0;
+    }
+
+    .review-ranking {
+        border-radius: 15px;
+    }
+
+    .grade-ranking-sec .review-ranking-inner {
+        padding: 20px 15px;
+    }
+
+    .review-ranking-box .text-box .text-inner p {
+        font-size: 22px;
+    }
+
+    .review-ranking-box .text-box .text-inner p img {
+        height: 24px;
+    }
+
+    .product-review-box .text-box h4 {
+        font-size: 20px;
+    }
+
+    .product-review-box {
+        padding: 20px;
+        border-radius: 20px;
+    }
+
+    .product-review-box .text-box a {
+        font-size: 18px;
+        max-width: 165px;
+        height: 50px;
+        border-radius: 10px;
+    }
+
+    .product-review-box .text-box ul li img {
+        height: 22px;
+    }
+
+    .product-review-box .text-box ul {
+        max-width: 160px;
+        padding: 10px;
+    }
+
+    .review-ranking-title h4 {
+        font-size: 18px;
+    }
+
+    .grade-ranking-sec .review-ranking-title {
+        max-width: 180px;
+        height: 45px;
+        border-radius: 10px;
+    }
+
+    .review-blaclist-inner .more-history {
+        margin: 20px 0;
+    }
+
+    .review-blaclist-tab .nav-pills .nav-item .nav-link span img {
+        height: 28px;
+    }
+
+    .review-blaclist-tab .nav-pills .nav-item .nav-link span {
+        min-height: 30px;
+    }
+
+    .review-blaclist-tab .nav-pills .nav-item .nav-link {
+        font-size: 14px;
+        height: 90px;
+        border-radius: 10px;
+    }
+
+    .submit-btn a {
+        font-size: 16px;
+        max-width: 195px;
+        width: 100%;
+        height: 50px;
+    }
+
+    .text-box-top .text-inner p {
+        font-size: 16px;
+        margin: 0 0 10px 0;
+    }
+
+    .more-btn {
+        font-size: 16px;
+        border-radius: 10px;
+        height: 50px;
+        width: 140px;
+        margin-top: 15px;
+        max-width: 100%;
+    }
+
+    .text-box-bottom p {
+        font-size: 16px;
+    }
+
+    .text-box-top .text-inner span {
+        font-size: 16px;
+    }
+
+    .single-review-sec {
+        padding: 50px 0 30px;
+    }
+
+    .single-review-box {
+        padding: 40px 15px;
+        border-radius: 20px;
+    }
+
+    .single-review-box .image-holder {
+        max-width: 260px;
+        height: 260px;
+    }
+
+    .single-review-box .image-holder img {
+        max-width: 135px;
+    }
+
+    .single-review-box .text-box .media h4 {
+        font-size: 34px;
+    }
+
+    .single-review-box .text-box .media p {
+        font-size: 28px;
+    }
+
+    .ratting li img {
+        height: 26px;
+    }
+
+    .ratting {
+        max-width: 210px;
+        height: 55px;
+        margin: 10px auto;
+    }
+
+    .single-review-box .text-box h5 img {
+        margin-right: 10px;
+        height: 25px;
+    }
+
+    .single-review-box .text-box h5 {
+        font-size: 14px;
+        justify-content: center;
+    }
+
+    .visit-btn {
+        font-size: 16px;
+        border-radius: 9px;
+        height: 50px;
+        max-width: 165px;
+    }
+
+    .single-review-box .text-box h6 {
+        font-size: 22px;
+        height: 65px;
+        max-width: 256px;
+        margin: 25px auto;
+    }
+
+    .single-review-box .text-box h6 img {
+        height: 26px;
+    }
+
+    .rank-diamond span img {
+        height: 20px;
+    }
+
+    .rank-diamond span {
+        border: 2px solid #b09168;
+        width: 50px;
+        height: 50px;
+    }
+
+    .rank-diamond img {
+        height: 16px;
+    }
+
+    .progress {
+        height: 30px;
+    }
+
+    .progress-bar {
+        font-size: 12px;
+    }
+
+    .single-pros-inner .nav-pills .nav-item .nav-link {
+        font-size: 14px;
+        padding: 10px 1px 85px;
+        border-radius: 10px;
+    }
+
+    .single-pros-inner .nav-pills {
+        padding: 0;
+        margin: 0;
+    }
+
+    .single-pros-inner .tab-content {
+        padding: 30px 15px;
+        border-radius: 10px;
+    }
+
+    .basic-detail ul li {
+        font-size: 16px;
+        margin: 0 0 10px 0;
+    }
+
+    .basic-detail ul li span {
+        max-width: 80px;
+    }
+
+    .cons-box ul li {
+        font-size: 14px;
+        margin-bottom: 15px;
+    }
+
+    .cons-box ul li img {
+        height: 20px;
+        margin-right: 10px;
+    }
+
+    .single-payment-tab {
+        padding-left: 10px;
+    }
+
+    .single-payment-tab .nav-pills .nav-item .nav-link {
+        padding: 15px 0;
+        font-size: 16px;
+    }
+
+    .single-payment-tab .nav-pills .nav-item {
+        margin-right: 20px;
+    }
+
+    .single-payment-tab .nav-pills {
+        width: 890px;
+    }
+
+    .payment-review-box {
+        padding: 30px 0 0px 0;
+    }
+
+    .payment-review-box .media span img {
+        height: 45px;
+    }
+
+    .payment-review-box .media .ratting {
+        height: 45px;
+        padding-right: 15px;
+        padding-left: 35px;
+    }
+
+    .payment-review-box .text-box h4 {
+        font-size: 22px;
+        padding-bottom: 15px;
+    }
+
+    .payment-review-box .text-box p {
+        font-size: 14px;
+        line-height: 1.5;
+        margin-bottom: 15px;
+    }
+
+    .loading-speed span img {
+        height: 80px;
+    }
+
+    .loading-speed ul {
+        margin: 20px 0;
+        max-width: inherit;
+        padding: 0;
+        width: 530px;
+    }
+
+    .loading-speed .text-inner p {
+        font-size: 16px;
+        line-height: 1.5;
+        margin: 20px 0;
+    }
+
+    .swiper-counter {
+        font-size: 26px;
+    }
+
+    .recommended-sec {
+        padding-bottom: 0;
+    }
+
+    .swiper-horizontal>.swiper-scrollbar {
+        height: 10px;
+        margin: 15px 0 0 0;
+    }
+
+    .provider-slider {
+        padding: 32px 0 0 0;
+        margin: 0 -10px;
+    }
+
+    .loading-speed ul {
+        width: 570px;
+    }
+
+    iframe {
+        border-radius: 15px;
+        width: 100%;
+        height: 230px;
+    }
+
+    .modal-video .modal-body {
+        padding: 15px;
+    }
+
+    .search-dropdown .text-box h4 {
+        margin-bottom: 10px;
+    }
+
+    .search-dropdown .text-box ul {
+        margin: 0 -5px;
+        flex-wrap: wrap;
+    }
+
+    .search-dropdown .text-box ul li {
+        padding: 5px 5px;
+    }
+
+    .search-dropdown {
+        top: 62px;
+    }
+
+    .diamond-user img {
+        height: 10px;
+        margin-right: 5px;
+    }
+
+    .diamond-user {
+        height: 28px;
+        font-size: 16px;
+        padding: 0 8px;
+        right: -70px;
+        top: -3px;
+    }
+
+    .wrapper {
+        padding: 0 0 170px 0;
+    }
+
+    .single-article-sec .breadcrumb .breadcrumb-item, .single-article-sec .breadcrumb .breadcrumb-item a, .single-article-sec .breadcrumb-item+.breadcrumb-item::before {
+        font-size: 14px;
+    }
+
+    .article-text h3 {
+        font-size: 16px;
+        margin: 0 0 10px 0;
+        line-height: 22px;
+    }
+
+    .article-text ul li {
+        font-size: 14px;
+    }
+
+    .single-article-box .image-holder {
+        margin: 15px 0;
+    }
+
+    .single-article-box .text-box p {
+        font-size: 16px;
+        line-height: 1.5;
+        margin: 0 0 15px 0;
+    }
+
+    .single-article-box .text-box h4 {
+        font-size: 18px;
+        padding-bottom: 5px;
+        border-bottom: 2px solid #bb9b6a;
+    }
+
+    .sponsord-tag li {
+        padding: 0px 5px;
+    }
+
+    .sponsord-tag {
+        margin: 0 -5px;
+    }
+
+    .sponsord-tag li a {
+        font-size: 14px;
+        padding: 0 10px;
+        border-radius: 5px;
+        height: 35px;
+    }
+    .sponsord-add .media h4 {
+        font-size: 16px;
+    }
+    .question-box p {
+        font-size: 16px; 
+    }
+    .sponsord-add {
+        padding: 15px; 
+        border-radius: 15px;
+    }
+    .question-box ul li a {
+        font-size: 16px;
+        border-radius: 5px;
+        height: 40px;
+        padding: 0px 40px;
+    }
+    .latest-news { 
+        padding: 20px 30px; 
+    }
+    .latest-news h3 {
+        font-size: 18px; 
+    }
+    .latest-news.news-recommendations {
+        padding: 20px;
+    }
+    .news-recommendations-box .image-holder {
+        max-width: 70px;
+    }
+    .news-recommendations-box .text-box p {
+        font-size: 18px;
+    }
+    .news-recommendations-box .text-box p img {
+        height: 20px;
+        margin-right: 10px;
+    }
+    .news-recommendations-box .ratting li img {
+        height: 18px;
+    }
+    .news-recommendations-box .text-box .ratting {
+        margin: 7px 0;
+        max-width: 145px;
+        height: 35px;
+    }
+}
+
+@media (max-width:374px) {
+    .banner-sec .text-box h1 {
+        font-size: 18px;
+    }
+
+    .banner-sec .text-box h4 img {
+        height: 14px;
+    }
+
+    .what-we-inner .carousel-indicators li {
+        padding: 0 3px;
+    }
+
+    .carousel-indicators [data-bs-target] {
+        font-size: 14px;
+        padding: 0 0 5px 0;
+    }
+
+    .mobile-footer ul li a img {
+        height: 18px;
+    }
+
+    .mobile-footer ul li a span {
+        font-size: 12px;
+        margin: 5px 0 0 0;
+    }
+
+    .mobile-footer ul li.footer-review a img {
+        height: 55px;
+    }
+
+    .mobile-footer {
+        padding: 20px 5px;
+    }
+
+    .mobile-footer ul li.footer-review {
+        margin-top: -37px;
+    }
+
+    .privacy-policy-inner .text-box p, .privacy-policy-inner .text-box h4 {
+        font-size: 14px;
+        line-height: 1.5;
+    }
+
+
+
+    .help-box p {
+        font-size: 14px;
+        line-height: 1.5;
+    }
+
+    .guide-sport-list ul li a {
+        font-size: 14px;
+    }
+
+    .more-history {
+        margin: 10px 0 0;
+    }
+
+    .contact-form .form-control {
+        font-size: 13px;
+        padding-left: 10px;
+    }
+
+    .profile-diamond-inner .form-group .form-control {
+        height: 45px;
+        font-size: 14px;
+        border-radius: 5px;
+        padding-left: 10px;
+    }
+
+    .verified-error, .verify {
+        font-size: 14px;
+    }
+
+    .dimoand-held img {
+        height: 24px;
+    }
+
+    .dimoand-held {
+        font-size: 22px;
+        padding: 0 15px;
+        height: 50px;
+        max-width: 130px;
+    }
+
+    .logout-bnt {
+        display: flex;
+        margin: 30px 0 0 auto;
+    }
+
+    .profile-tabs .nav-pills .nav-item .nav-link {
+        font-size: 14px;
+        border-radius: 10px;
+        padding: 10px 10px 35px;
+    }
+
+    .review-ranking-title h4 {
+        font-size: 18px;
+    }
+
+    .review-ranking-title {
+        max-width: 230px;
+        width: 100%;
+        height: 50px;
+    }
+
+    .review-ranking-box .text-box .text-inner p {
+        font-size: 22px;
+    }
+
+    .view-btn {
+        font-size: 18px;
+        border-radius: 10px;
+        height: 45px;
+        width: 145px;
+    }
+
+    .progress {
+        height: 20px;
+    }
+
+    .progress-bar {
+        font-size: 10px;
+        padding: 0 5px 0 0px;
+    }
+
+    .single-review-box .text-box .media p {
+        font-size: 20px;
+    }
+
+    .single-pros-inner .nav-pills .nav-item .nav-link {
+        font-size: 12px;
+        padding: 10px 1px 85px;
+        border-radius: 10px;
+    }
+
+    .basic-detail ul li {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .basic-detail ul li span {
+        max-width: inherit;
+        margin: 0 0 5px 0;
+    }
+
+    .swiper-pagination-bullet {
+        width: 10px;
+        height: 10px;
+        margin: 0 2.5px !important;
+    }
+
+    .swiper-counter {
+        font-size: 20px;
+    }
+
+    .diamond-user {
+        height: 25px;
+        font-size: 13px;
+        padding: 0 6px;
+        right: -54px;
+        top: -3px;
+    }
+
+    .wrapper {
+        padding: 0 0 130px 0;
+    }
+    .single-article-sec .breadcrumb .breadcrumb-item, .single-article-sec .breadcrumb .breadcrumb-item a, .single-article-sec .breadcrumb-item+.breadcrumb-item::before {
+        font-size: 12px;
+    }
+    .single-article-box .text-box p {
+        font-size: 14px;
+        line-height: 1.5;
+        margin: 0 0 15px 0;
+    }
+    .single-article-box {
+        margin-bottom: 20px;
+    }
+    .article-social { 
+        padding: 10px 10px;
+    }
+    .article-social ul li {
+        padding: 0 2px;
+    }
+    .article-social ul { 
+        margin: 0 -2px;
+    }
+    .question-box p {
+        font-size: 14px;
+    }
+    .latest-news-box .text-box h4 {
+        font-size: 14px;
+    }
+}
