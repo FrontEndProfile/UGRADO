@@ -3676,6 +3676,9 @@ iframe {
     margin-bottom: 20px;
     
 }
+.login__input_outline.w_50 {
+    width: 50%;
+}
 .login__input_outline .form-label{
     font-size: 22px;
     line-height: 33px;
@@ -3754,4 +3757,92 @@ iframe {
 .terms_style .divider {
     margin-left: 3px;
     margin-right: 3px;
+}
+
+
+/* ------------------ */
+.otp-form {
+    margin-top: 65px;
+}
+.title {
+    max-width: 400px;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 25px;
+
+  }
+  .title h3 {
+    margin-bottom: 0;
+    font-size: 28px;
+    line-height: 33px;
+    color: #1e1e20;
+    font-family: "Century Gothic";
+  }
+
+
+  
+  .otp-input-fields {
+    margin: auto;
+    background-color: white;
+    max-width: 400px;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    padding: 0 40px;
+    margin-bottom: 70px;
+  }
+  .otp-input-fields input {
+    width: 73px;
+    height: 84px;
+    border-radius: 4px;
+    background-color: transparent;
+    border: 1px solid #acacac;
+    text-align: center;
+    outline: none;
+    font-size: 28px;
+    font-family: "Century Gothic";
+  }
+  .otp-input-fields input::-webkit-outer-spin-button, .otp-input-fields input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  .otp-input-fields input[type=number] {
+    -moz-appearance: textfield;
+  }
+  .otp-input-fields input:focus {
+    border-width: 2px;
+    border-color: #acacac;
+    font-size: 20px;
+  }
+  
+.select__style {
+    
+    display: flex;
+    align-items: flex-end;
+}
+.select__style {
+    margin-right: 10px;
+}
+.select__style .form-select {
+    margin-right: 15px;
+    width: 222px;
+    height: 53px;
+    box-shadow: none;
+    margin-bottom: 20px;
+}
+.select__style_text {
+    font-size: 24px;
+    line-height: 36px;
+    color: #1e1e20;
+    font-family: "Century Gothic";
+    margin-bottom: 20px;
+}
+.select_row_style_text {
+    font-size: 25px;
+line-height: 33px;
+color: #1e1e20;
+font-family: "Century Gothic";
+margin-bottom: 6px;
+font-weight: 400;
 }

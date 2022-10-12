@@ -8,7 +8,7 @@
     <!-- Style CSS -->
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/responsive.css">
-    <title> UGRADO || INDEX </title>
+    <title> UGRADO || verification </title>
 </head>
 
 <body>
@@ -83,36 +83,43 @@
             </div>
         </header>
         <!-- 000000000000000000000  -->
-        <section class="login__form ">
+        <section class="login__form">
             <div class="login__form_layout">
-                <h1 class="login__form_layout_tittle">
-                    Log in
+                <h1 class="login__form_layout_tittle_otp w-100">
+                    Waiting for verification...
                 </h1>
-                <div class="login__form_layout_message">Don’t have an account? <a href="#">Sign up</a></div>
-                <div class="login__inputs">
-                    <form>
-                        <div class="login__input">
-                          <input type="email" class="form-control rounded-0 shadow-none" placeholder="Username">
-                        </div>
-                        <div class="login__input">
-                            <input type="email" class="form-control rounded-0 shadow-none" placeholder="Password">
-                        </div>
-                        <div class="d-flex align-items-center justify-content-between flex-wrap">
-                            <div class="login__input form-check">
-                                <input type="checkbox" class="form-check-input rounded-1 shadow-none" id="exampleCheck1">
-                                <label class="form-check-label" for="exampleCheck1">Remember me</label>
-                            </div>
-                            <div class="login__input form-check">
-                                <label class="form-check-label">Forgot Password or Email?</label>
-                            </div>
-                        </div>
-                        <button type="submit" class="btn shadow-none login__btn_pill">Log IN</button>
-                    </form>
+                <div class="login__form_layout_message_otp">Enter SMS Verification code</div>
+                <div class="login__info verification__content">
+                    We have sent verification code to 0171829183 to verify your details.
+                    Please enter the code below.
                 </div>
-                <div class="login__info">
-                    *By logging in, you agree to our <a href="#">Terms of Use</a> and to receive Ugrado emails & updates and acknowledge that you read
-                    our <a href="#">Privacy Policy</a>. You aslo acknowledge that Ugrado uses cookies to give the best user experience.
+                <!-- partial -->
+                <form action="javascript: void(0)" class="otp-form" name="otp-form">
+
+                    <div class="title">
+                    <h3>Enter verification code</h3>
+                    </div>
+                    <div class="otp-input-fields">
+                    <input type="number" class="otp__digit otp__field__1">
+                    <input type="number" class="otp__digit otp__field__2">
+                    <input type="number" class="otp__digit otp__field__3">
+                    <input type="number" class="otp__digit otp__field__4">
+                    <input type="number" class="otp__digit otp__field__5">
+                    <input type="number" class="otp__digit otp__field__6">
+                    </div>
+                </form>
+                <!-- partial -->
+                <div class="d-flex justify-content-center flex-column align-items-center">
+                    <button type="submit" class="btn shadow-none login__btn_pill_bg mt-0">Verify</button>
+                    <ul class="m-0 p-0 d-flex align-items-center terms_style">
+                        <li><a href="#">Terms of Use</a></li>
+                        <li> | </li>
+                        <li><a href="#">Privacy Policy</a></li>
+                    </ul>
                 </div>
+
+
+
             </div>
 
         </section>
@@ -280,6 +287,7 @@
     </div>
     <!-- Section Testimonial sec end -->
     <!-- jQuery and Bootstrap Bundle (includes Popper) -->
+    <script src="js/otp.js"></script>
     <script src="js/jquery.min.js"></script>
     <script src="js/bootstrap.bundle.min.js"></script>
     <script src="js/swiper-bundle.min.js"></script>

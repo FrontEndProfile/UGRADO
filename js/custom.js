@@ -1,5 +1,6 @@
 
 
+
 $(".search-icon").click(function () {
   $(".search-dropdown").addClass("active");
 });
@@ -300,4 +301,7 @@ var swiper = new Swiper(".recommendedSwiper", {
     }
   }
 });
+
+
+
 

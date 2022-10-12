@@ -8,7 +8,7 @@
     <!-- Style CSS -->
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/responsive.css">
-    <title> UGRADO || INDEX </title>
+    <title> UGRADO || Sign up </title>
 </head>
 
 <body>
@@ -83,35 +83,93 @@
             </div>
         </header>
         <!-- 000000000000000000000  -->
-        <section class="login__form ">
+        <section class="login__form">
             <div class="login__form_layout">
                 <h1 class="login__form_layout_tittle">
-                    Log in
+                    Sign up
                 </h1>
-                <div class="login__form_layout_message">Don’t have an account? <a href="#">Sign up</a></div>
+                <div class="login__form_layout_message">Already have an Ugrado account? <a href="#">Log in</a></div>
                 <div class="login__inputs">
                     <form>
-                        <div class="login__input">
-                          <input type="email" class="form-control rounded-0 shadow-none" placeholder="Username">
+                        <div class="login__input_outline">
+                            <label for="exampleInputEmail1" class="form-label">Email</label>
+                            <input type="email" class="form-control rounded-0 shadow-none" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="demo@gmail.com">
                         </div>
-                        <div class="login__input">
-                            <input type="email" class="form-control rounded-0 shadow-none" placeholder="Password">
+                        <div class="login__input_outline">
+                            <label class="form-label">Username</label>
+                            <input type="email" class="form-control rounded-0 shadow-none" placeholder="demougrado2017">
                         </div>
-                        <div class="d-flex align-items-center justify-content-between flex-wrap">
-                            <div class="login__input form-check">
-                                <input type="checkbox" class="form-check-input rounded-1 shadow-none" id="exampleCheck1">
-                                <label class="form-check-label" for="exampleCheck1">Remember me</label>
+                        <div class="login__input_outline">
+                            <label class="form-label">Full Name</label>
+                            <input type="email" class="form-control rounded-0 shadow-none" placeholder="Demo Ugrado ">
+                        </div>
+                        <div class="login__input_outline">
+                            <label class="form-label">Phone Number</label>
+                            <input type="text" class="form-control rounded-0 shadow-none" placeholder="0171829183">
+                        </div>
+                        <!-- SKIPS  -->
+                        <div class="select_row_style">
+                            <div class="select_row_style_text">Day of Birth</div>
+                            <div class="d-flex align-items-center flex-wrap justify-content-between">
+                                <div class="select__style">
+                                    <select class="form-select" aria-label="Default select example">
+                                        <option selected>2003</option>
+                                        <option value="1">2004</option>
+                                        <option value="2">2005</option>
+                                        <option value="3">2006</option>
+                                    </select>
+                                    <div class="select__style_text">Year</div>
+                                </div>
+                                <div class="select__style">
+                                    <select class="form-select" aria-label="Default select example">
+                                        <option selected>jun</option>
+                                        <option value="1">july</option>
+                                        <option value="2">November</option>
+                                        <option value="3">december</option>
+                                    </select>
+                                    <div class="select__style_text">Month</div>
+                                </div>
+                                <div class="select__style">
+                                    <select class="form-select" aria-label="Default select example">
+                                        <option selected>1</option>
+                                        <option value="1">2</option>
+                                        <option value="2">3</option>
+                                        <option value="3">4</option>
+                                    </select>
+                                    <div class="select__style_text">Day</div>
+                                </div>
                             </div>
-                            <div class="login__input form-check">
-                                <label class="form-check-label">Forgot Password or Email?</label>
+                        </div>
+                        <div class="select_row_style">
+                            <div class="select_row_style_text">Gender</div>
+                            <div class="d-flex align-items-center flex-wrap justify-content-between">
+                                <div class="select__style">
+                                    <select class="form-select" aria-label="Default select example">
+                                        <option selected></option>
+                                        <option value="1">2004</option>
+                                        <option value="2">2005</option>
+                                        <option value="3">2006</option>
+                                    </select>
+                                </div>
+                                
                             </div>
                         </div>
-                        <button type="submit" class="btn shadow-none login__btn_pill">Log IN</button>
+                        
+                        
+                        <div class="login__input_outline w_50">
+                            <label class="form-label">Password</label>
+                            <input type="password" value="0000000" class="form-control rounded-0 shadow-none">
+                        </div>
+                        <div class="login__input_outline w_50">
+                            <label class="form-label">Confirm Password</label>
+                            <input type="password" value="0000000" class="form-control rounded-0 shadow-none">
+                        </div>
+                        
+                        <button type="submit" class="btn shadow-none login__btn_pill_bg">Sign up</button>
                     </form>
                 </div>
                 <div class="login__info">
-                    *By logging in, you agree to our <a href="#">Terms of Use</a> and to receive Ugrado emails & updates and acknowledge that you read
-                    our <a href="#">Privacy Policy</a>. You aslo acknowledge that Ugrado uses cookies to give the best user experience.
+                    *By signing up, you agree to our <a href="#">Terms of Use,</a> <a href="#">Privacy Policy</a> and to receive Ugrado emails & updates.
                 </div>
             </div>
 

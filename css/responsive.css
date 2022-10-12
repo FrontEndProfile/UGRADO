@@ -2685,6 +2685,28 @@
     .news-recommendations-box {
         padding: 36px 0;
     }
+    /* ---  */
+    .login__form_layout_tittle_otp {
+        width: 150px;
+        margin: auto;
+        margin-bottom: 22px;
+        font-size: 27px;
+        line-height: 28px;
+        margin-bottom: 28px;
+    }
+    .login__form_layout {
+        padding: 0px 30px;
+    }
+    .login__form_layout_message_otp {
+        font-size: 28px;
+        line-height: 28px;
+        text-align: center;
+    }
+    .login__form_layout_message_otp {
+        font-size: 24px;
+        line-height: 25px;
+        margin-bottom: 15px;
+    }
 }
 
 @media (max-width:1180px) {
@@ -4000,6 +4022,74 @@
     .latest-news.news-recommendations h3 {
         margin: 0 0 15px 0;
     }
+    .otp-form {
+        margin-top: 35px;
+    }
+    .title {
+        margin-bottom: 12px;
+    }
+    .title h3 {
+        font-size: 24px;
+        line-height: 24px;
+    }
+    .otp-input-fields input {
+        width: 53px;
+        height: 64px;
+        font-size: 25px;
+    }
+    .otp-input-fields {
+        width: fit-content;
+        margin-bottom: 35px;
+    }
+    .select__style .form-select {
+        max-width: 150px;
+    }
+    .login__form_layout_tittle {
+        font-size: 57px;
+        line-height: 57px;
+        margin-bottom: 22px;
+    }
+    .login__form_layout_message {
+        font-size: 26px;
+        line-height: 26px;
+        margin-bottom: 50px;
+    }
+    .login__inputs .form-control {
+        font-size: 28px;
+        line-height: 30px;
+        padding: 8px 2px;
+    }
+    .login__input .form-check-label {
+        font-size: 18px;
+        line-height: 28px;
+    }
+    .login__input .form-check-input {
+        background: #00a3ee;
+        height: 18px;
+        width: 18px;
+        margin-right: 8px;
+    }
+    .login__btn_pill {
+        width: 200px;
+        height: 65px;
+        border-radius: 42px;
+        font-size: 25px;
+        line-height: 36px;
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+    .login__input_outline .form-control {
+        padding-top: 6px;
+        padding-bottom: 7px;
+        border-radius: 4px !important;
+        border: 1px solid #acacac;
+        font-size: 22px;
+        line-height: 30px;
+        color: #1e1e20;
+        font-family: "Century Gothic";
+        padding-left: 13px;
+        padding-right: 10px;
+    }
 }
 
 @media (max-width:767px) {
@@ -4688,6 +4778,54 @@
 
     .latest-news-box .text-box h4 {
         font-size: 18px;
+    }
+
+    .verification__content {
+        font-size: 25px;
+        line-height: 26px;
+    }
+    .login__form_layout_message_otp {
+        font-size: 30px;
+        line-height: 32px;
+        margin-bottom: 20px;
+    }
+    .login__btn_pill_bg {
+        border-radius: 42px;
+        width: 263px;
+        height: 70px;
+        font-size: 29px;
+        line-height: 30px;
+        margin-top: 30px;
+        margin-bottom: 14px;
+    }
+    .login__form_layout_tittle_otp {
+        width: 112px;
+    }
+    .login__form {
+        padding-bottom: 118px;
+    }
+    .select__style .form-select {
+        width: 300px;
+        max-width: 800px;
+    }
+    .login__input_outline.w_50 {
+        width: 100%;
+    }
+    .login__input_outline .form-control {
+        padding-top: 6px;
+        padding-bottom: 7px;
+        border-radius: 4px !important;
+        font-size: 20px;
+        line-height: 26px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .login__input_outline .form-label {
+        font-size: 18px;
+        line-height: 23px;
+        color: #1e1e20;
+        font-family: "Century Gothic";
+        margin-bottom: 3px;
     }
 }
 
@@ -5677,6 +5815,101 @@
         max-width: 145px;
         height: 35px;
     }
+
+    .login__form_layout_message_otp {
+        font-size: 27px;
+        line-height: 28px;
+        margin-bottom: 18px;
+    }
+    .verification__content {
+        font-size: 20px;
+        line-height: 22px;
+        text-align: center;
+    }
+    .login__btn_pill_bg {
+        border-radius: 42px;
+        width: 239px;
+        height: 61px;
+        font-size: 25px;
+        line-height: 30px;
+        margin-top: 20px;
+        margin-bottom: 14px;
+    }
+    .otp-input-fields input {
+        width: 36px;
+        height: 40px;
+        font-size: 20px;
+    }
+    .title h3 {
+        font-size: 20px;
+        line-height: 21px;
+    }
+    .otp-input-fields {
+        width: auto;
+        gap: 10px;
+        padding: 0 5px;
+    }
+    .terms_style li a {
+        font-size: 14px;
+    }
+    .select__style .form-select {
+        width: 180px;
+        max-width: 100%;
+    }
+    .login__form_layout_tittle {
+        font-size: 40px;
+        line-height: 40px;
+        margin-bottom: 16px;
+    }
+    .login__form_layout_message {
+        font-size: 19px;
+        line-height: 20px;
+        margin-bottom: 20px;
+    }
+    .login__inputs .form-control {
+        font-size: 18px;
+        line-height: 20px;
+        padding: 6px 2px;
+    }
+    .login__input {
+        margin-bottom: 12px;
+    }
+    .login__btn_pill {
+        width: 172px;
+        height: 54px;
+        border-radius: 42px;
+        font-size: 22px;
+        line-height: 22px;
+        margin-bottom: 20px;
+        margin-top: 20px;
+        border: 3px solid #ba9b6a;
+    }
+    .login__input_outline .form-control {
+        padding-top: 6px;
+        padding-bottom: 7px;
+        border-radius: 4px !important;
+        font-size: 19px;
+        line-height: 23px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .login__input_outline .form-label {
+        font-size: 18px;
+        line-height: 23px;
+        color: #1e1e20;
+        font-family: "Century Gothic";
+        margin-bottom: 3px;
+    }
+    .login__btn_pill {
+        width: 130px;
+        height: 48px;
+        border-radius: 42px;
+        font-size: 20px;
+        line-height: 20px;
+        margin-bottom: 20px;
+        margin-top: 20px;
+        border: 3px solid #ba9b6a;
+    }
 }
 
 @media (max-width:374px) {
@@ -5872,5 +6105,35 @@
     }
     .latest-news-box .text-box h4 {
         font-size: 14px;
+    }
+    .login__form_layout_message_otp {
+        font-size: 25px;
+        line-height: 25px;
+        margin-bottom: 15px;
+    }
+    .verification__content {
+        font-size: 17px;
+        line-height: 19px;
+        text-align: center;
+    }
+    .login__btn_pill_bg {
+        width: 220px;
+        height: 51px;
+        font-size: 22px;
+        line-height: 22px;
+        margin-top: 20px;
+        margin-bottom: 12px;
+    }
+    .login__form_layout {
+        padding: 0px 18px;
+    }
+    .login__form_layout_tittle_otp {
+        width: 88px;
+    }
+    .login__form_layout_tittle_otp {
+        margin-bottom: 22px;
+        font-size: 23px;
+        line-height: 22px;
+        margin-bottom: 20px;
     }
 }
